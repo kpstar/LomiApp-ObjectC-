@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "M77-9D-MHO"; */
+"M77-9D-MHO.text" = "إلغاء";
+
+/* Class = "UILabel"; text = "Pounds (lb)"; ObjectID = "b9v-wn-Sz0"; */
+"b9v-wn-Sz0.text" = "باوند";
+
+/* Class = "UILabel"; text = "Kilograms (kg)"; ObjectID = "x4D-QK-eZa"; */
+"x4D-QK-eZa.text" = "كيلوغرام (كغم‫)‬";

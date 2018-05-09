@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="CDailyPlanViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Alj-GO-YXg" userLabel="ViewContainer">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Ukg-FT-iED">
+                            <rect key="frame" x="62" y="8" width="297" height="651"/>
+                            <subviews>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon_watch" translatesAutoresizingMaskIntoConstraints="NO" id="Orw-aC-Svn">
+                                    <rect key="frame" x="70" y="16" width="14" height="14"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="14" id="1ta-rH-2db"/>
+                                        <constraint firstAttribute="width" constant="14" id="hDa-Y0-AO6"/>
+                                    </constraints>
+                                </imageView>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="8:00 am - 9:00 am" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Y3K-Fe-ajp">
+                                    <rect key="frame" x="92" y="13" width="197" height="21"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="21" id="Out-mJ-3Us"/>
+                                    </constraints>
+                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Breakfast" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xTI-qk-2Lq">
+                                    <rect key="frame" x="70" y="42" width="219" height="26.5"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="22"/>
+                                    <nil key="textColor"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" editable="NO" text="Boiled egg + 2 slices white toast + 1 tablespoon low fat whilte cheese + lettuce and cucumber" textAlignment="natural" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nEh-uG-cWc">
+                                    <rect key="frame" x="70" y="76" width="227" height="575"/>
+                                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                </textView>
+                            </subviews>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <constraints>
+                                <constraint firstItem="nEh-uG-cWc" firstAttribute="top" secondItem="xTI-qk-2Lq" secondAttribute="bottom" constant="8" id="6u9-c4-FRX"/>
+                                <constraint firstItem="Orw-aC-Svn" firstAttribute="leading" secondItem="Ukg-FT-iED" secondAttribute="leading" constant="70" id="8Oh-Z5-98d"/>
+                                <constraint firstItem="Y3K-Fe-ajp" firstAttribute="top" secondItem="Ukg-FT-iED" secondAttribute="top" constant="13" id="Ab7-Et-GOq"/>
+                                <constraint firstAttribute="trailing" secondItem="xTI-qk-2Lq" secondAttribute="trailing" constant="8" id="FpZ-tb-8w2"/>
+                                <constraint firstItem="Y3K-Fe-ajp" firstAttribute="leading" secondItem="Orw-aC-Svn" secondAttribute="trailing" constant="8" id="TcI-mu-8gP"/>
+                                <constraint firstItem="Orw-aC-Svn" firstAttribute="top" secondItem="Ukg-FT-iED" secondAttribute="top" constant="16" id="UKO-af-zLX"/>
+                                <constraint firstAttribute="trailing" secondItem="nEh-uG-cWc" secondAttribute="trailing" id="VYw-x3-XiG"/>
+                                <constraint firstItem="xTI-qk-2Lq" firstAttribute="top" secondItem="Y3K-Fe-ajp" secondAttribute="bottom" constant="8" id="bOr-Be-LI3"/>
+                                <constraint firstAttribute="bottom" secondItem="nEh-uG-cWc" secondAttribute="bottom" id="fjJ-QB-0ZI"/>
+                                <constraint firstItem="xTI-qk-2Lq" firstAttribute="leading" secondItem="Ukg-FT-iED" secondAttribute="leading" constant="70" id="htg-jx-oo4"/>
+                                <constraint firstItem="nEh-uG-cWc" firstAttribute="leading" secondItem="Ukg-FT-iED" secondAttribute="leading" constant="70" id="qTf-EL-0Kd"/>
+                                <constraint firstAttribute="trailing" secondItem="Y3K-Fe-ajp" secondAttribute="trailing" constant="8" id="zGb-Qd-yb6"/>
+                            </constraints>
+                        </view>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon_breakfast" translatesAutoresizingMaskIntoConstraints="NO" id="BxS-fZ-Fjh">
+                            <rect key="frame" x="16" y="24" width="92" height="92"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="92" id="Ta4-Ex-H6g"/>
+                                <constraint firstAttribute="height" constant="92" id="Z5D-Em-jWB"/>
+                            </constraints>
+                        </imageView>
+                    </subviews>
+                    <constraints>
+                        <constraint firstItem="BxS-fZ-Fjh" firstAttribute="leading" secondItem="Alj-GO-YXg" secondAttribute="leading" constant="16" id="BU3-Ur-7XX"/>
+                        <constraint firstAttribute="bottom" secondItem="Ukg-FT-iED" secondAttribute="bottom" constant="8" id="CC1-Nr-GEx"/>
+                        <constraint firstAttribute="trailing" secondItem="Ukg-FT-iED" secondAttribute="trailing" constant="16" id="a9g-Ol-rcc"/>
+                        <constraint firstItem="Ukg-FT-iED" firstAttribute="top" secondItem="Alj-GO-YXg" secondAttribute="top" constant="8" id="uAs-ye-ROg"/>
+                        <constraint firstItem="BxS-fZ-Fjh" firstAttribute="top" secondItem="Alj-GO-YXg" secondAttribute="top" constant="24" id="ud6-28-wVf"/>
+                        <constraint firstItem="Ukg-FT-iED" firstAttribute="leading" secondItem="Alj-GO-YXg" secondAttribute="leading" constant="62" id="uf7-gW-msZ"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="0.96078431369999995" green="0.96078431369999995" blue="0.96078431369999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="Alj-GO-YXg" secondAttribute="bottom" id="GEe-qi-JP5"/>
+                <constraint firstAttribute="trailing" secondItem="Alj-GO-YXg" secondAttribute="trailing" id="XxV-pa-KQu"/>
+                <constraint firstItem="Alj-GO-YXg" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="ryO-1E-ZPv"/>
+                <constraint firstItem="Alj-GO-YXg" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="yk5-6o-2HE"/>
+            </constraints>
+            <connections>
+                <outlet property="m_ivImage" destination="BxS-fZ-Fjh" id="C7f-Rd-Mz8"/>
+                <outlet property="m_lblPeriod" destination="Y3K-Fe-ajp" id="agu-Lo-ECi"/>
+                <outlet property="m_lblType" destination="xTI-qk-2Lq" id="I9d-8O-Ogh"/>
+                <outlet property="m_tvContent" destination="nEh-uG-cWc" id="Bdf-xp-uKh"/>
+            </connections>
+            <point key="canvasLocation" x="69.5" y="59.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="icon_breakfast" width="92" height="92"/>
+        <image name="icon_watch" width="14" height="14"/>
+    </resources>
+</document>

@@ -1,0 +1,9 @@
+
+/* Class = "UITextView"; text = "Enter your promotional code below and we will contact you to activate it"; ObjectID = "8qo-jo-MYf"; */
+"8qo-jo-MYf.text" = "Enter your promotional code below and we will contact you to activate it";
+
+/* Class = "UIButton"; normalTitle = "Activate Promotion Code"; ObjectID = "BKL-eN-HOH"; */
+"BKL-eN-HOH.normalTitle" = "Activate Promotion Code";
+
+/* Class = "UITextField"; placeholder = "Promotion Code"; ObjectID = "nD1-6m-VR5"; */
+"nD1-6m-VR5.placeholder" = "Promotion Code";

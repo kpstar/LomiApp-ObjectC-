@@ -1,0 +1,163 @@
+/*
+  Localizable.strings
+  LomiApp
+
+  Created by TwinkleStar on 11/28/16.
+  Copyright © 2016 twinklestar. All rights reserved.
+*/
+
+//API
+"ALERT_MESSAGE_NETWORKERROR"                    = "The attempt to load data via your data service has failed. Try again or use a WiFi connection.";
+"ALERT_MESSAGE_NETWORKERROR_RELOAD"             = "The attempt to load data via your data service has failed. Try again or use a WiFi connection. Do you want to reload data?";
+"ALERT_MESSAGE_API_CHECKEMAIL_VALID"            = "Email is fine!!";
+"ALERT_MESSAGE_CHOOSENUT_NOFREE"                = "Now there is no free nutritionist. Please try again later";
+//Normal Titiles of ALERT
+"ALERT_TITLE_FAIL"                              = "Fail";
+"ALERT_TITLE_ERROR"                             = "Error";
+"ALERT_TITLE_NOTE"                              = "Note";
+"ALERT_TITLE_SORRY"                             = "Sorry";
+"ALERT_TITLE_CONGAT"                            = "Congats!";
+
+//ALERTs of LogIn Page
+"ALERT_MESSAGE_LOGIN_INPUTERROR"                = "Email and Password could not be empty.";
+//ALERTs of ForgotPassword Page
+"ALERT_MESSAGE_FORGOTPASS_INPUTERRROR"          = "Email could not be empty.";
+
+"ALERT_MESSAGE_CHOOSELANGUAGE"                  = "To change language you have to restart the app manually. Do you want to close the app now?";
+
+//ALERTs of Register Page
+"ALERT_MESSAGE_REGIST1_INPUTERROR_FIRSTNAME"    = "First name is too short";
+"ALERT_MESSAGE_REGIST1_INPUTERROR_LASTNAME"     = "Last name is too short";
+"ALERT_MESSAGE_REGIST1_INPUTERROR_EMAIL"        = "Email is invalid";
+"ALERT_MESSAGE_REGIST1_INPUTERROR_PASSWORD"     = "Password should be more than 6 characters";
+"ALERT_MESSAGE_REGIST1_INPUTERROR_CONFRIMPASSWORD"     = "Passwords do not match";
+"ALERT_MESSAGE_REGIST1_INPUTERROR_CONFRIMEMAIL"     = "Email Confirmation does not match";
+"ALERT_MESSAGE_REGIST1_INPUTERROR_INVALIDEMAIL" = "Please enter valid email address";
+"ALERT_MESSAGE_REGIST2_INPUTERROR_COUNTRY"      = "Please select your country";
+"ALERT_MESSAGE_REGIST2_INPUTERROR_BIRTHDAY"      = "Please select your birthday";
+//ALERTs of Photo Select
+"ALERT_MESSAGE_PHOTO_NOCAMERA"                  = "No Camera";
+"ALERT_MESSAGE_PHOTO_NOPHOTOLIBRARY"            = "No Photo Library";
+
+//ALERTs of Payment
+"ALERT_PAYMENT_INVALIDCARD"                     = "Invalid Card";
+"ALERT_PAYMENT_FAILED"                          = "Payment is failed";
+"ALERT_PAYMENT_YOURECEIVE"                      = "You receive";
+"ALERT_PAYMENT_PREMIUM"                         = "Premium Account";
+
+//ALERTs of Promotion Code
+"ALERT_MESSAGE_PROMOTION_INPUTERROR_INVALIDCODE" = "Please enter valid code";
+
+//ALERTs of Choose Options
+"ALERT_CHOOSE_OPTION"                           = "Please select at least one option";
+
+//ALERTs of Update
+"ALERT_MESSAGE_UPDATE"                          = "Please update your app with latest version.";
+
+
+//Questionaries
+"QUESTIONARIES_DIETREASONS_WEIGHT"              = "Weight management / Healthy lifestyle diet";
+"QUESTIONARIES_DIETREASONS_PREGNANT"            = "Pregnant/nursing mothers diet";
+"QUESTIONARIES_DIETREASONS_DETOX"               = "Detox/ Holistic nutrition diet";
+"QUESTIONARIES_DIETREASONS_SPORTS"              = "Sports Nutrition diet";
+"QUESTIONARIES_DIETREASONS_HIGH"                = "High cholesterol diet";
+"QUESTIONARIES_DIETREASONS_BARIATRIC"           = "Bariatric diet";
+"QUESTIONARIES_DIETREASONS_DIABETES"            = "Diabetes patient diet";
+"QUESTIONARIES_DIETREASONS_HYPOTHYROIDISM"      = "Hypothyroidism / hyperthyroidism diet";
+"QUESTIONARIES_DIETREASONS_IRRITABLE"           = "Irritable Bowel Syndrome diet";
+"QUESTIONARIES_DIETREASONS_CANCER"              = "Cancer patient diet";
+"QUESTIONARIES_DIETREASONS_URIC"                = "High Uric Acid diet";
+"QUESTIONARIES_DIETREASONS_HYPERTENSION"        = "Hypertension patient Diet";
+"QUESTIONARIES_DIETREASONS_PEDIATRIC"           = "Pediatric Nutrition diet";
+"QUESTIONARIES_DIETREASONS_OTHER"               = "Other";
+
+"TEXT_QUESTIONARIES_DIETREASONS_DISEASE"        = "Please Specify Your Diet Reasons / Disease";
+
+"QUESTIONARIES_SPORT_Onceaweek"                 = "Once a week";
+"QUESTIONARIES_SPORT_Everyday"                  = "Every day";
+"QUESTIONARIES_SPORT_Fewdaysaweek"              = "Few days a week";
+"QUESTIONARIES_SPORT_Never"                     = "Never";
+
+"QUESTIONARIES_WORK_Fieldwork"                  = "Field work";
+"QUESTIONARIES_WORK_Officework"                 = "Office work";
+"QUESTIONARIES_WORK_Wifehouse"                  = "Homemaker";
+"QUESTIONARIES_WORK_Dontwork"                   = "Don’t work";
+"QUESTIONARIES_WORK_Activitywork"               = "Activity work";
+
+"QUESTIONARIES_FOODKIND_Vegetables"             = "Vegetables";
+"QUESTIONARIES_FOODKIND_Fishorotherseafood"     = "Fish or other sea food";
+"QUESTIONARIES_FOODKIND_Chicken"                = "Chicken";
+"QUESTIONARIES_FOODKIND_Redmeat"                = "Red meat";
+"QUESTIONARIES_FOODKIND_Breadorothergrain"      = "Bread or other grain";
+"QUESTIONARIES_FOODKIND_Peanutsnuts"            = "Peanuts & nuts";
+"QUESTIONARIES_FOODKIND_Egg"                    = "Egg";
+"QUESTIONARIES_FOODKIND_MilkandDairy"           = "Milk and Dairy";
+"QUESTIONARIES_FOODKIND_FruitsVegetables"       = "Fruits & Vegetables";
+"QUESTIONARIES_FOODKIND_Nothing"                = "Nothing";
+
+"SPECIALITY_ALL"                                = "All specialities";
+"SPECIALITY_PEDIATRIC"                          = "Pediatric Dietitian";
+"SPECIALITY_DIABETIC"                           = "Diabetic Dietitian";
+"SPECIALITY_CLINICAL"                           = "Clinical Dietitian";
+"SPECIALITY_SPORTS"                             = "Sports Dietitian";
+"SPECIALITY_THERAPEUTIC"                        = "Therapeutic Dietitian";
+"SPECIALITY_HOLISTIC"                           = "Holistic Nutrition";
+
+//Normal
+"STR_OK"                                = "OK";
+"STR_NOCAMERA"                          = "No Camera";
+"STR_YES"                               = "YES";
+"STR_NO"                                = "NO";
+"STR_CLOSE"                             = "Close";
+"STR_TRY"                               = "Try again";
+"STR_IGNORE"                            = "Ignore";
+"STR_SURE"                              = "Sure";
+
+//Countries
+"COUNTRY_ALL"                           = "All countries";
+"COUNTRY_Algeria"                       = "Algeria";
+"COUNTRY_Bahrain"                       = "Bahrain";
+"COUNTRY_Canada"                        = "Canada";
+"COUNTRY_Egypt"                         = "Egypt";
+"COUNTRY_Jordan"                        = "Jordan";
+"COUNTRY_Kuwait"                        = "Kuwait";
+"COUNTRY_Lebanon"                       = "Lebanon";
+"COUNTRY_Libya"                         = "Libya";
+"COUNTRY_Morocco"                       = "Morocco";
+"COUNTRY_Oman"                          = "Oman";
+"COUNTRY_Qatar"                         = "Qatar";
+"COUNTRY_SaudiArabia"                   = "Saudi Arabia";
+"COUNTRY_Sudan"                         = "Sudan";
+"COUNTRY_Syria"                         = "Syria";
+"COUNTRY_Tunisia"                       = "Tunisia";
+"COUNTRY_Turkey"                        = "Turkey";
+"COUNTRY_UnitedArabEmirates"            = "United Arab Emirates";
+"COUNTRY_UnitedKingdom"                 = "United Kingdom";
+"COUNTRY_UnitedStates"                  = "United States";
+"COUNTRY_Yemen"                         = "Yemen";
+
+//Language
+"LAN_ENGLISH"                           = "English";
+"LAN_ARABIC"                            = "Arabic";
+
+//STRING
+"STR_VOTE"                              = "Vote";
+"STR_VOTES"                             = "Votes";
+"STR_WEIGHT"                            = "Weight";
+"STR_HEIGHT"                            = "Height";
+"STR_LASTUPDATEON"                      = "Last update on:";
+"STR_UNDERWIEGHT"                       = "Underweight";
+"STR_NORMALWEIGHT"                      = "Normal weight";
+"STR_OVERWEIGHT"                        = "Overweight";
+"STR_OBESE"                             = "Obese";
+"STR_YOURGOAL"                          = "YOUR GOAL";
+"STR_NOTIFICATION"                      = "Lomi Notification";
+"STR_BREAKFAST"                         = "Breakfast";
+"STR_LUNCH"                             = "Lunch";
+"STR_DINNER"                            = "Dinner";
+"STR_MSNACK"                            = "Morning Snack";
+"STR_ASNACK"                            = "Afternoon Snack";
+"STR_ESNACK"                            = "Evening Snack";
+"STR_FULLYBOOKED"                       = "Fully Booked";
+"STR_EXPYEAR"                           = "Year";
+"STR_EXPMONTH"                          = "Month";

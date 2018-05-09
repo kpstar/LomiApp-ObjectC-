@@ -1,0 +1,202 @@
+PODS:
+  - AFNetworkActivityLogger (3.0.0):
+    - AFNetworking/NSURLSession (~> 3.0)
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - BEMCheckBox (1.2.1)
+  - Bolts (1.9.0):
+    - Bolts/AppLinks (= 1.9.0)
+    - Bolts/Tasks (= 1.9.0)
+  - Bolts/AppLinks (1.9.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.9.0)
+  - Braintree (4.15.0):
+    - Braintree/Card (= 4.15.0)
+    - Braintree/Core (= 4.15.0)
+    - Braintree/PayPal (= 4.15.0)
+    - Braintree/UI (= 4.15.0)
+  - Braintree/Card (4.15.0):
+    - Braintree/Core
+  - Braintree/Core (4.15.0)
+  - Braintree/PaymentFlow (4.15.0):
+    - Braintree/Card
+    - Braintree/Core
+  - Braintree/PayPal (4.15.0):
+    - Braintree/Core
+    - Braintree/PayPalOneTouch
+  - Braintree/PayPalDataCollector (4.15.0):
+    - Braintree/Core
+    - Braintree/PayPalUtils
+  - Braintree/PayPalOneTouch (4.15.0):
+    - Braintree/Core
+    - Braintree/PayPalDataCollector
+    - Braintree/PayPalUtils
+  - Braintree/PayPalUtils (4.15.0)
+  - Braintree/UI (4.15.0):
+    - Braintree/Card
+    - Braintree/Core
+  - Braintree/UnionPay (4.15.0):
+    - Braintree/Card
+    - Braintree/Core
+  - BraintreeDropIn (6.1.0):
+    - BraintreeDropIn/DropIn (= 6.1.0)
+  - BraintreeDropIn/DropIn (6.1.0):
+    - Braintree/Card (~> 4.11)
+    - Braintree/Core (~> 4.11)
+    - Braintree/PaymentFlow (~> 4.11)
+    - Braintree/UnionPay (~> 4.11)
+    - BraintreeDropIn/UIKit
+  - BraintreeDropIn/UIKit (6.1.0)
+  - CardIO (5.4.1)
+  - FBSDKCoreKit (4.31.1):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.31.1):
+    - FBSDKCoreKit
+  - FirebaseAnalytics (3.2.1):
+    - FirebaseInstanceID (~> 1.0)
+    - GoogleInterchangeUtilities (~> 1.2)
+    - GoogleSymbolUtilities (~> 1.1)
+    - GoogleUtilities (~> 1.3)
+  - FirebaseInstanceID (1.0.7)
+  - Flurry-iOS-SDK/FlurrySDK (7.6.6)
+  - FSCalendar (2.2.0)
+  - Google/Analytics (3.0.3):
+    - Google/Core
+    - GoogleAnalytics (~> 3.12)
+  - Google/Core (3.0.3):
+    - FirebaseAnalytics (~> 3.2)
+  - GoogleAnalytics (3.14.0)
+  - GoogleInterchangeUtilities (1.2.1):
+    - GoogleSymbolUtilities (~> 1.0)
+  - GoogleSymbolUtilities (1.1.1)
+  - GoogleUtilities (1.3.1):
+    - GoogleSymbolUtilities (~> 1.0)
+  - HCSStarRatingView (1.4.5)
+  - IQKeyboardManager (4.0.4)
+  - MBProgressHUD (0.9.2)
+  - PayPal-iOS-SDK (2.18.1):
+    - PayPal-iOS-SDK/CardIO (= 2.18.1)
+    - PayPal-iOS-SDK/Core (= 2.18.1)
+  - PayPal-iOS-SDK/CardIO (2.18.1):
+    - CardIO (~> 5.4.1)
+  - PayPal-iOS-SDK/Core (2.18.1)
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+  - SHSPhoneComponent (2.15)
+  - Stripe (8.0.2)
+  - TwitterCore (3.1.0)
+  - TwitterKit (3.3.0):
+    - TwitterCore (>= 3.1.0)
+  - TWMessageBarManager (1.8.1)
+  - "UIView+PartialRoundedCorner (1.0.0)"
+
+DEPENDENCIES:
+  - AFNetworkActivityLogger (from `https://github.com/AFNetworking/AFNetworkActivityLogger.git`, branch `3_0_0`)
+  - AFNetworking
+  - BEMCheckBox
+  - Braintree
+  - BraintreeDropIn
+  - FBSDKLoginKit
+  - Flurry-iOS-SDK/FlurrySDK
+  - FSCalendar
+  - Google/Analytics
+  - HCSStarRatingView
+  - IQKeyboardManager
+  - MBProgressHUD
+  - PayPal-iOS-SDK
+  - SDWebImage
+  - SHSPhoneComponent
+  - Stripe
+  - TwitterKit
+  - TWMessageBarManager
+  - "UIView+PartialRoundedCorner"
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - BEMCheckBox
+    - Bolts
+    - Braintree
+    - BraintreeDropIn
+    - CardIO
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - FirebaseAnalytics
+    - FirebaseInstanceID
+    - Flurry-iOS-SDK
+    - FSCalendar
+    - Google
+    - GoogleAnalytics
+    - GoogleInterchangeUtilities
+    - GoogleSymbolUtilities
+    - GoogleUtilities
+    - HCSStarRatingView
+    - IQKeyboardManager
+    - MBProgressHUD
+    - PayPal-iOS-SDK
+    - SDWebImage
+    - SHSPhoneComponent
+    - Stripe
+    - TwitterCore
+    - TwitterKit
+    - TWMessageBarManager
+    - "UIView+PartialRoundedCorner"
+
+EXTERNAL SOURCES:
+  AFNetworkActivityLogger:
+    :branch: 3_0_0
+    :git: https://github.com/AFNetworking/AFNetworkActivityLogger.git
+
+CHECKOUT OPTIONS:
+  AFNetworkActivityLogger:
+    :commit: b7cce59a369788c409d218e8dab7f381a858cee4
+    :git: https://github.com/AFNetworking/AFNetworkActivityLogger.git
+
+SPEC CHECKSUMS:
+  AFNetworkActivityLogger: e77f68d014becb33c4306a23f56a64906ff72670
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  BEMCheckBox: 264b8b72aa92adbfefa265cc58a0cdb86b207b9f
+  Bolts: ac6567323eac61e203f6a9763667d0f711be34c8
+  Braintree: 5f10816f455ffd79c411e6d22a177846971f3677
+  BraintreeDropIn: 2e8bba4facf6cc925176637030454d8308223b95
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  FBSDKCoreKit: e08ccfcefa7bc1347a07c276dac9bf6c7fe57024
+  FBSDKLoginKit: 99797ac39252fef6f72600b886f6ee60b4b29cab
+  FirebaseAnalytics: 0fd6532cb2c3d03cd5cf26ad295ccb091efd3104
+  FirebaseInstanceID: a9d923f3d0b6fbf9fac89310860357aaadc34be5
+  Flurry-iOS-SDK: 97bbeec09cca666c2f1772f6e161c4f8ccff611e
+  FSCalendar: 766367b91bcf2829c492c5ac50a58652c6df4ee8
+  Google: cd92fab98f800f509da88c1e0c570275713bc9d5
+  GoogleAnalytics: 9be1afdb8deeac4bb5f13ca7f7d3b9db2a1f43dc
+  GoogleInterchangeUtilities: def8415a862effc67d549d5b5b0b9c7a2f97d4de
+  GoogleSymbolUtilities: 33117db1b5f290c6fbf259585e4885b4c84b98d7
+  GoogleUtilities: 56c5ac05b7aa5dc417a1bb85221a9516e04d7032
+  HCSStarRatingView: bff3f89314d3b5013ce826ea11897d3129ff6b8c
+  IQKeyboardManager: 4a6f83b540283c2645aaeba2bd8dc0f09b5c77f8
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  PayPal-iOS-SDK: 10654cd111e911a9807bddb96fae81aacb8e9915
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+  SHSPhoneComponent: 4cec0653a150ad63cbc52b0c8b29ce2d3c9c26f0
+  Stripe: 3dfcde17037996e00db0a2f6dbfdedb7ad2ae55b
+  TwitterCore: 644d59e75abccb26cf0a9050d2c4dea0e5412241
+  TwitterKit: a2e60ddcedbf54091eac6f27685ca7a87681e1d7
+  TWMessageBarManager: fd84e7948ba7968a2b5d9454859135761214ec56
+  "UIView+PartialRoundedCorner": ae913b5b64aed9eb2cd43e47e5379a8f943c05df
+
+PODFILE CHECKSUM: 723adb978cfd887d10b640950d081a0c699063cf
+
+COCOAPODS: 1.5.0

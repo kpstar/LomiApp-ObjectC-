@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Yes, upgrade now"; ObjectID = "2Ly-Ag-BA5"; */
+"2Ly-Ag-BA5.text" = "Yes, upgrade now";
+
+/* Class = "UITextView"; text = "Your package expired...please choose your plan and upgrade to get your direct access to your personal dietitian"; ObjectID = "prW-ff-oCK"; */
+"prW-ff-oCK.text" = "Your package expired...please choose your plan and upgrade to get your direct access to your personal dietitian";
+
+/* Class = "UILabel"; text = "No, Log out"; ObjectID = "y3D-92-IqG"; */
+"y3D-92-IqG.text" = "No, Log out";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "04R-0C-Zn6"; */
+"04R-0C-Zn6.text" = "Contact Us";

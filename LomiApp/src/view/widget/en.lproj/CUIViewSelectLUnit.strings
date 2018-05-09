@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Feets (ft)"; ObjectID = "4Wy-fs-xyX"; */
+"4Wy-fs-xyX.text" = "Feets (ft)";
+
+/* Class = "UILabel"; text = "Centimetrs (cm)"; ObjectID = "FpS-GP-tUR"; */
+"FpS-GP-tUR.text" = "Centimetrs (cm)";
+
+/* Class = "UILabel"; text = "Inches (in)"; ObjectID = "b0a-OM-HCJ"; */
+"b0a-OM-HCJ.text" = "Inches (in)";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "emA-rm-9zA"; */
+"emA-rm-9zA.text" = "Cancel";

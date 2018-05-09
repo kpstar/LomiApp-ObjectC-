@@ -1,0 +1,163 @@
+/* 
+  Localizable.strings
+  LomiApp
+
+  Created by TwinkleStar on 11/28/16.
+  Copyright © 2016 twinklestar. All rights reserved.
+*/
+
+//API
+"ALERT_MESSAGE_NETWORKERROR"                    = "فشلت محاولة تحميل البيانات عبر خدمة البيانات الخاصة بك. حاول من جديد أو استخدام اتصال واي فاي.";
+"ALERT_MESSAGE_NETWORKERROR"                    = "فشلت محاولة تحميل البيانات عبر خدمة البيانات الخاصة بك. حاول من جديد أو استخدام اتصال واي فاي.";
+"ALERT_MESSAGE_API_CHECKEMAIL_VALID"            = "!!الإيميل صحيح";
+"ALERT_MESSAGE_CHOOSENUT_NOFREE"                = "الآن لا يوجد خبيرة تغذية متوفرة . الرجاء معاودة المحاولة في وقت لاحق";
+//Normal Titiles of ALERT
+"ALERT_TITLE_FAIL"                              = "فشل";
+"ALERT_TITLE_ERROR"                             = "خطأ";
+"ALERT_TITLE_NOTE"                              = "ملاحظة";
+"ALERT_TITLE_SORRY"                             = "نعتذر";
+"ALERT_TITLE_CONGAT"                            = "مبروك‫!‬";
+
+//ALERTs of LogIn Page
+"ALERT_MESSAGE_LOGIN_INPUTERROR"                = "البريد الإلكتروني وكلمة المرور لا يمكن أن تكون فارغة.";
+//ALERTs of ForgotPassword Page
+"ALERT_MESSAGE_FORGOTPASS_INPUTERRROR"          = "البريد الإلكتروني لا يمكن أن تكون فارغة.";
+
+//ALERTs of Register Page
+"ALERT_MESSAGE_REGIST1_INPUTERROR_FIRSTNAME"    = "الاسم الأول قصير جدا";
+"ALERT_MESSAGE_REGIST1_INPUTERROR_LASTNAME"     = "الاسم الأخير قصير جدا";
+"ALERT_MESSAGE_REGIST1_INPUTERROR_EMAIL"        = "البريد الإلكتروني غير صحيح";
+"ALERT_MESSAGE_REGIST1_INPUTERROR_PASSWORD"     = "كلمة المرور يجب ان تكون ٦ أحرف على الأقل";
+"ALERT_MESSAGE_REGIST1_INPUTERROR_CONFRIMPASSWORD"     = "كلمة المرور غير متطابقة";
+"ALERT_MESSAGE_REGIST1_INPUTERROR_CONFRIMEMAIL"     = "الايميل غير صحيح";
+"ALERT_MESSAGE_REGIST1_INPUTERROR_INVALIDEMAIL" = "الرجاء إدخال عنوان بريد إلكتروني صحيح";
+"ALERT_MESSAGE_REGIST2_INPUTERROR_COUNTRY"      = "الرجاء اختر بلدك";
+"ALERT_MESSAGE_REGIST2_INPUTERROR_BIRTHDAY"     = "الرجاء تحديد تاريخ ميلادك";
+//ALERTs of Photo Select
+"ALERT_MESSAGE_PHOTO_NOCAMERA"                  = "لا يوجد كاميرا";
+"ALERT_MESSAGE_PHOTO_NOPHOTOLIBRARY"            = "لا يوجد مكتبة صور";
+
+"ALERT_MESSAGE_CHOOSELANGUAGE"                  = "لتغيير اللغة الرجاء إعادة تشغيل التطبيق يدويا. هل تريد إغلاق التطبيق الآن؟";
+
+//ALERTs of Payment
+"ALERT_PAYMENT_INVALIDCARD"                     = "بطاقة غير صالحة";
+"ALERT_PAYMENT_FAILED"                          = "فشل الدفع";
+"ALERT_PAYMENT_YOURECEIVE"                      = "لقد حصلت على";
+"ALERT_PAYMENT_PREMIUM"                         = "من الخدمة المميزة";
+
+//ALERTs of Promotion Code
+"ALERT_MESSAGE_PROMOTION_INPUTERROR_INVALIDCODE" = "الرجاء ادخال رمز ترويجي صحيح";
+
+//ALERTs of Choose Options
+"ALERT_CHOOSE_OPTION"                           = "اختر على الاقل خيار واحد";
+
+//ALERTs of Update
+"ALERT_MESSAGE_UPDATE"                          = "الرجاء تحميل التحديث الاخير للتطبيق";
+
+
+//Questionaries
+"QUESTIONARIES_DIETREASONS_WEIGHT"              = "برنامج تغذية للتحكم بالوزن / نظام اكل صحي";
+"QUESTIONARIES_DIETREASONS_PREGNANT"            = "برنامج تغذية للحامل / المرضع";
+"QUESTIONARIES_DIETREASONS_DETOX"               = "برنامج تغذية للتخلص من السموم";
+"QUESTIONARIES_DIETREASONS_SPORTS"              = "برنامج تغذية الرياضيين";
+"QUESTIONARIES_DIETREASONS_HIGH"                = "برنامج تغذية لارتفاع الكوليسترول";
+"QUESTIONARIES_DIETREASONS_BARIATRIC"           = "برنامج تغذية جراحات السمنة";
+"QUESTIONARIES_DIETREASONS_DIABETES"            = "برنامج تغذية لمريض السكري";
+"QUESTIONARIES_DIETREASONS_HYPOTHYROIDISM"      = "برنامج تغذية لمشاكل الغدة الدرقية";
+"QUESTIONARIES_DIETREASONS_IRRITABLE"           = "برنامج تغذية ل القولون العصبي";
+"QUESTIONARIES_DIETREASONS_CANCER"              = "برنامج تغذية لمريض السرطان";
+"QUESTIONARIES_DIETREASONS_URIC"                = "برنامج تغذية ل ارتفاع حمض اليوريك اسيد";
+"QUESTIONARIES_DIETREASONS_HYPERTENSION"        = "برنامج تغذية ل ارتفاع ضغط الدم";
+"QUESTIONARIES_DIETREASONS_PEDIATRIC"           = "برنامج تغذية للاطفال والمراهقين";
+"QUESTIONARIES_DIETREASONS_OTHER"               = "اسباب اخرى";
+
+"TEXT_QUESTIONARIES_DIETREASONS_DISEASE"        = "ماسبب الحمية الغذائية / المرض ان وجد";
+
+"QUESTIONARIES_SPORT_Onceaweek"                 = "مرة اسبوعيا";
+"QUESTIONARIES_SPORT_Everyday"                  = "كل يوم";
+"QUESTIONARIES_SPORT_Fewdaysaweek"              = "اكثر من مرة اسبوعيا";
+"QUESTIONARIES_SPORT_Never"                     = "ابدا";
+
+"QUESTIONARIES_WORK_Fieldwork"                  = "عمل ميداني";
+"QUESTIONARIES_WORK_Officework"                 = "عمل مكتبي";
+"QUESTIONARIES_WORK_Wifehouse"                  = "ربة منزل";
+"QUESTIONARIES_WORK_Dontwork"                   = "لا أعمل";
+"QUESTIONARIES_WORK_Activitywork"               = "عمل نشاطي";
+
+"QUESTIONARIES_FOODKIND_Vegetables"             = "الخضروات";
+"QUESTIONARIES_FOODKIND_Fishorotherseafood"     = "المأكولات البحرية";
+"QUESTIONARIES_FOODKIND_Chicken"                = "الدجاج";
+"QUESTIONARIES_FOODKIND_Redmeat"                = "اللحم الأحمر";
+"QUESTIONARIES_FOODKIND_Breadorothergrain"      = "الخبز و غيرها من الحبوب";
+"QUESTIONARIES_FOODKIND_Peanutsnuts"            = "الفول السوداني والمكسرات";
+"QUESTIONARIES_FOODKIND_Egg"                    = "البيض";
+"QUESTIONARIES_FOODKIND_MilkandDairy"           = "الحليب ومنتجات الألبان";
+"QUESTIONARIES_FOODKIND_FruitsVegetables"       = "فواكه وخضروات";
+"QUESTIONARIES_FOODKIND_Nothing"                = "لا شيء";
+
+"SPECIALITY_ALL"                                = "جميع التخصصات";
+"SPECIALITY_PEDIATRIC"                          = "اختصاصي تغذية اطفال ومراهقين";
+"SPECIALITY_DIABETIC"                           = "اختصاصي تغذية سكري";
+"SPECIALITY_CLINICAL"                           = "اختصاصي تغذية عيادية";
+"SPECIALITY_SPORTS"                             = "اختصاصي تغذية رياضيين";
+"SPECIALITY_THERAPEUTIC"                        = "اختصاصي تغذية علاجية";
+"SPECIALITY_HOLISTIC"                           = "اختصاصي تغذية وحمية";
+
+//Normal
+"STR_OK"                                = "موافق";
+"STR_NOCAMERA"                          = "لا يوجد كاميرا";
+"STR_YES"                               = "نعم";
+"STR_NO"                                = "لا";
+"STR_CLOSE"                             = "أغلق";
+"STR_TRY"                               = "حاول ثانية";
+"STR_IGNORE"                            = "الغاء";
+"STR_SURE"                              = "تأكيد";
+
+//Countries
+"COUNTRY_ALL"                           = "جميع البلدان";
+"COUNTRY_Algeria"                       = "الجزائر";
+"COUNTRY_Bahrain"                       = "البحرين";
+"COUNTRY_Canada"                        = "كندا";
+"COUNTRY_Egypt"                         = "مصر";
+"COUNTRY_Jordan"                        = "الأردن";
+"COUNTRY_Kuwait"                        = "الكويت";
+"COUNTRY_Lebanon"                       = "لبنان";
+"COUNTRY_Libya"                         = "ليبيا";
+"COUNTRY_Morocco"                       = "المغرب";
+"COUNTRY_Oman"                          = "سلطنة عمان";
+"COUNTRY_Qatar"                         = "قطر";
+"COUNTRY_SaudiArabia"                   = "السعودية";
+"COUNTRY_Sudan"                         = "السودان";
+"COUNTRY_Syria"                         = "سوريا";
+"COUNTRY_Tunisia"                       = "التونس";
+"COUNTRY_Turkey"                        = "تركيا";
+"COUNTRY_UnitedArabEmirates"            = "الإمارات العربية المتحدة";
+"COUNTRY_UnitedKingdom"                 = "المملكة المتحدة";
+"COUNTRY_UnitedStates"                  = "الولايات المتحدة الامريكية";
+"COUNTRY_Yemen"                         = "اليمن";
+
+//Language
+"LAN_ENGLISH"                           = "English";
+"LAN_ARABIC"                            = "العربي";
+
+//STRING
+"STR_VOTE"                              = "صوت";
+"STR_VOTES"                             = "صوت";
+"STR_WEIGHT"                            = "الوزن";
+"STR_HEIGHT"                            = "الطول";
+"STR_LASTUPDATEON"                      = "اخر تحديث";
+"STR_UNDERWIEGHT"                       = "نحافة";
+"STR_NORMALWEIGHT"                      = "الوزن طبيعي";
+"STR_OVERWEIGHT"                        = "وزن زائد";
+"STR_OBESE"                             = "سمنة";
+"STR_YOURGOAL"                          = "الوزن المستهدف";
+"STR_NOTIFICATION"                      = "تنبيهات لومي";
+"STR_BREAKFAST"                         = "الفطور";
+"STR_LUNCH"                             = "الغذاء";
+"STR_DINNER"                            = "العشاء";
+"STR_MSNACK"                            = "وجبة خفيفة صباحا";
+"STR_ASNACK"                            = "وجبة خفيفه ظهرا";
+"STR_ESNACK"                            = "وجبة خفيفة مساءا";
+"STR_FULLYBOOKED"                       = "الاشتراكات محجوزة بالكامل...غير متاح حاليا";
+"STR_EXPYEAR"                           = "عام";
+"STR_EXPMONTH"                          = "شهر";

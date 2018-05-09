@@ -1,0 +1,6 @@
+framework module Pods_LomiApp {
+  umbrella header "Pods-LomiApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

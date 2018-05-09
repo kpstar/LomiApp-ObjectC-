@@ -1,0 +1,935 @@
+
+/* Class = "UILabel"; text = "Pick from Library"; ObjectID = "0mQ-ua-NfK"; */
+"0mQ-ua-NfK.text" = "Pick from Library";
+
+/* Class = "UITextField"; placeholder = "Please select your country"; ObjectID = "1Gh-91-BNM"; */
+"1Gh-91-BNM.placeholder" = "Please select your country";
+
+/* Class = "UILabel"; text = "Female"; ObjectID = "1Gv-y6-kBu"; */
+"1Gv-y6-kBu.text" = "Female";
+
+/* Class = "UILabel"; text = "New Photo"; ObjectID = "1Qa-PB-vIn"; */
+"1Qa-PB-vIn.text" = "New Photo";
+
+/* Class = "UILabel"; text = "Sport"; ObjectID = "1hc-36-TRc"; */
+"1hc-36-TRc.text" = "Sport";
+
+/* Class = "UILabel"; text = "Breakfast"; ObjectID = "2Bk-jN-Xai"; */
+"2Bk-jN-Xai.text" = "Breakfast";
+
+/* Class = "UILabel"; text = "Have a promotion code?"; ObjectID = "2Xe-do-pkg"; */
+"2Xe-do-pkg.text" = "Have a promotion code?";
+
+/* Class = "UILabel"; text = "Friend Notification"; ObjectID = "2qJ-mZ-B6s"; */
+"2qJ-mZ-B6s.text" = "Friend Notification";
+
+/* Class = "UILabel"; text = "We bring health expert to your fingertips"; ObjectID = "356-MT-VVx"; */
+"356-MT-VVx.text" = "We bring health expert to your fingertips";
+
+/* Class = "UILabel"; text = "Give a rate"; ObjectID = "35h-Os-MTg"; */
+"35h-Os-MTg.text" = "Give a rate";
+
+/* Class = "UILabel"; text = "Work"; ObjectID = "3OC-XV-YTd"; */
+"3OC-XV-YTd.text" = "Work";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "3OI-Fh-qf5"; */
+"3OI-Fh-qf5.text" = "0";
+
+/* Class = "UILabel"; text = "Push notification"; ObjectID = "3QQ-Xf-BFQ"; */
+"3QQ-Xf-BFQ.text" = "Push notification";
+
+/* Class = "UILabel"; text = "Code"; ObjectID = "3XQ-85-Ov7"; */
+"3XQ-85-Ov7.text" = "Code";
+
+/* Class = "UILabel"; text = "Vibration"; ObjectID = "4Uh-dB-pdP"; */
+"4Uh-dB-pdP.text" = "Vibration";
+
+/* Class = "UILabel"; text = "Birthday"; ObjectID = "4eI-Gb-B4N"; */
+"4eI-Gb-B4N.text" = "Birthday";
+
+/* Class = "UILabel"; text = "Female"; ObjectID = "4lo-2r-lhJ"; */
+"4lo-2r-lhJ.text" = "Female";
+
+/* Class = "UILabel"; text = "My Profile"; ObjectID = "5jW-sm-bTp"; */
+"5jW-sm-bTp.text" = "My Profile";
+
+/* Class = "UILabel"; text = "Save"; ObjectID = "5om-o2-kEL"; */
+"5om-o2-kEL.text" = "Save";
+
+/* Class = "UILabel"; text = "Upper arm"; ObjectID = "6Hh-Ha-RoV"; */
+"6Hh-Ha-RoV.text" = "Upper arm";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "6Yy-PC-4nI"; */
+"6Yy-PC-4nI.normalTitle" = "Accept";
+
+/* Class = "UILabel"; text = "Chest"; ObjectID = "6eB-ef-j5r"; */
+"6eB-ef-j5r.text" = "Chest";
+
+/* Class = "UILabel"; text = "kg"; ObjectID = "6ls-uZ-Sbp"; */
+"6ls-uZ-Sbp.text" = "kg";
+
+/* Class = "UILabel"; text = "ECONOMY 27%"; ObjectID = "6pZ-Sa-E41"; */
+"6pZ-Sa-E41.text" = "ECONOMY 27%";
+
+/* Class = "UILabel"; text = "Your Questionnaire (5/5)"; ObjectID = "7Jj-DA-Gwh"; */
+"7Jj-DA-Gwh.text" = "Your Questionnaire (5/5)";
+
+/* Class = "UILabel"; text = "Get free PREMIUM for a one week"; ObjectID = "7Ua-Ef-Y3G"; */
+"7Ua-Ef-Y3G.text" = "Get free PREMIUM for a one week";
+
+/* Class = "UILabel"; text = "Food kind"; ObjectID = "7Z9-JB-dhS"; */
+"7Z9-JB-dhS.text" = "Food kind";
+
+/* Class = "UILabel"; text = "Canada"; ObjectID = "7aQ-n3-QQq"; */
+"7aQ-n3-QQq.text" = "Canada";
+
+/* Class = "UILabel"; text = "Your Questionnaire (1/4)"; ObjectID = "7j0-Xa-TDz"; */
+"7j0-Xa-TDz.text" = "Your Questionnaire (1/4)";
+
+/* Class = "UILabel"; text = "Log in"; ObjectID = "7mJ-5Z-cHp"; */
+"7mJ-5Z-cHp.text" = "Log in";
+
+/* Class = "UITextView"; text = "What type of foods you avoid in your diet ?"; ObjectID = "891-Oh-pF4"; */
+"891-Oh-pF4.text" = "What type of foods you avoid in your diet ?";
+
+/* Class = "UITextView"; text = "Enter your promotional code below
+and receive one week PREMIUM ACCOUNT"; ObjectID = "8IC-6k-wB3"; */
+"8IC-6k-wB3.text" = "Enter your promotional code below
+and receive one week PREMIUM ACCOUNT";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "9Ok-R3-j1A"; */
+"9Ok-R3-j1A.text" = "Cancel";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "A1S-Ki-uVK"; */
+"A1S-Ki-uVK.text" = "*";
+
+/* Class = "UILabel"; text = "$ 25"; ObjectID = "ARH-5x-rS9"; */
+"ARH-5x-rS9.text" = "$ 25";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "AbZ-PY-5O1"; */
+"AbZ-PY-5O1.text" = "Cancel";
+
+/* Class = "UILabel"; text = "Back"; ObjectID = "AmD-kO-znv"; */
+"AmD-kO-znv.text" = "Back";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "BHl-SG-XND"; */
+"BHl-SG-XND.text" = "Last Name";
+
+/* Class = "UILabel"; text = "Birthday"; ObjectID = "BOA-XN-4YJ"; */
+"BOA-XN-4YJ.text" = "Birthday";
+
+/* Class = "UILabel"; text = "Female"; ObjectID = "BRq-fg-r1u"; */
+"BRq-fg-r1u.text" = "Female";
+
+/* Class = "UITextView"; text = "On statistic, PREMIUM USERS achieve their goals in resetting weights on 45 % more"; ObjectID = "BfL-fA-FTY"; */
+"BfL-fA-FTY.text" = "On statistic, PREMIUM USERS achieve their goals in resetting weights on 45 % more";
+
+/* Class = "UITextField"; placeholder = "CVV"; ObjectID = "Bqt-1S-gJK"; */
+"Bqt-1S-gJK.placeholder" = "CVV";
+
+/* Class = "UIButton"; normalTitle = "العربية"; ObjectID = "C9O-v8-8w3"; */
+"C9O-v8-8w3.normalTitle" = "العربية";
+
+/* Class = "UILabel"; text = "Pick from Library"; ObjectID = "CUP-Hc-58n"; */
+"CUP-Hc-58n.text" = "Pick from Library";
+
+/* Class = "UITabBarItem"; title = "Messages"; ObjectID = "CVB-3m-aKp"; */
+"CVB-3m-aKp.title" = "Messages";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "Cb1-kX-8HL"; */
+"Cb1-kX-8HL.text" = ">";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "CcE-RH-jQH"; */
+"CcE-RH-jQH.text" = "First Name";
+
+/* Class = "UILabel"; text = "Chat Notification"; ObjectID = "CnM-0J-Skt"; */
+"CnM-0J-Skt.text" = "Chat Notification";
+
+/* Class = "UILabel"; text = "Step 2"; ObjectID = "D1g-Wt-Q3R"; */
+"D1g-Wt-Q3R.text" = "Step 2";
+
+/* Class = "UITextView"; text = "Enter your email address and we'll help you reset your password."; ObjectID = "DUa-23-LbL"; */
+"DUa-23-LbL.text" = "Enter your email address and we'll help you reset your password.";
+
+/* Class = "UILabel"; text = "Payment Plan"; ObjectID = "DZW-Gl-aDT"; */
+"DZW-Gl-aDT.text" = "Payment Plan";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "Dgw-Rm-nBw"; */
+"Dgw-Rm-nBw.text" = ">";
+
+/* Class = "UILabel"; text = "Pick from Library"; ObjectID = "Dit-Dk-qdW"; */
+"Dit-Dk-qdW.text" = "Pick from Library";
+
+/* Class = "UILabel"; text = "Female"; ObjectID = "E4N-mB-2Pt"; */
+"E4N-mB-2Pt.text" = "Female";
+
+/* Class = "UILabel"; text = "Exp Year"; ObjectID = "EEB-Mw-vox"; */
+"EEB-Mw-vox.text" = "Exp Year";
+
+/* Class = "UILabel"; text = "Challenge Notification"; ObjectID = "ELG-31-nlH"; */
+"ELG-31-nlH.text" = "Challenge Notification";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "Fje-Un-yg3"; */
+"Fje-Un-yg3.text" = "Cancel";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "G6Y-zt-Qhb"; */
+"G6Y-zt-Qhb.text" = "0";
+
+/* Class = "UILabel"; text = "No comment"; ObjectID = "GOR-Or-cY3"; */
+"GOR-Or-cY3.text" = "No comment";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "Gg5-pI-FO1"; */
+"Gg5-pI-FO1.text" = "Male";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "HA4-qT-kqc"; */
+"HA4-qT-kqc.text" = "Cancel";
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "HH7-u3-uhi"; */
+"HH7-u3-uhi.text" = "Other";
+
+/* Class = "UILabel"; text = "Your Questionnaire (3/4)"; ObjectID = "HLV-Mf-fLC"; */
+"HLV-Mf-fLC.text" = "Your Questionnaire (3/4)";
+
+/* Class = "UILabel"; text = "Have a promotion code?"; ObjectID = "HXY-ai-6Dj"; */
+"HXY-ai-6Dj.text" = "Have a promotion code?";
+
+/* Class = "UITextField"; placeholder = "Credit Card Number"; ObjectID = "Hh8-FJ-fLE"; */
+"Hh8-FJ-fLE.placeholder" = "Credit Card Number";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "Hvj-W4-HaQ"; */
+"Hvj-W4-HaQ.text" = "English";
+
+/* Class = "UILabel"; text = "Your Questionnaire (2/4)"; ObjectID = "I4D-IY-599"; */
+"I4D-IY-599.text" = "Your Questionnaire (2/4)";
+
+/* Class = "UITextView"; text = "What is your work ?"; ObjectID = "IP2-qc-dg6"; */
+"IP2-qc-dg6.text" = "What is your work ?";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "Ime-xj-ILv"; */
+"Ime-xj-ILv.text" = ">";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "JGi-2F-t6s"; */
+"JGi-2F-t6s.text" = "Cancel";
+
+/* Class = "UILabel"; text = "Done"; ObjectID = "JGk-tJ-LxM"; */
+"JGk-tJ-LxM.text" = "Done";
+
+/* Class = "UILabel"; text = "Upload your meal photo"; ObjectID = "Kei-Z0-Rys"; */
+"Kei-Z0-Rys.text" = "Upload your meal photo";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "Kj4-za-bDz"; */
+"Kj4-za-bDz.text" = ">";
+
+/* Class = "UIButton"; normalTitle = "Update Account"; ObjectID = "Kmo-Sn-Dc5"; */
+"Kmo-Sn-Dc5.normalTitle" = "Update Account";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "Kog-YQ-SIo"; */
+"Kog-YQ-SIo.normalTitle" = "Sign up";
+
+/* Class = "UITabBarItem"; title = "Messages"; ObjectID = "Kwf-WP-1Jt"; */
+"Kwf-WP-1Jt.title" = "Messages";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "L4d-us-rN9"; */
+"L4d-us-rN9.text" = "1";
+
+/* Class = "UILabel"; text = "Units Settings"; ObjectID = "LL1-y4-dVu"; */
+"LL1-y4-dVu.text" = "Units Settings";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "Lsx-xA-tZg"; */
+"Lsx-xA-tZg.text" = "Cancel";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "M4x-nV-RpD"; */
+"M4x-nV-RpD.text" = "0";
+
+/* Class = "UILabel"; text = "I accept"; ObjectID = "M5h-Kg-zyD"; */
+"M5h-Kg-zyD.text" = "I accept";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "MZ2-Hr-zg1"; */
+"MZ2-Hr-zg1.text" = "Country";
+
+/* Class = "UILabel"; text = "Lara Chebli"; ObjectID = "Mek-aN-RBf"; */
+"Mek-aN-RBf.text" = "Lara Chebli";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "Mjd-rh-un0"; */
+"Mjd-rh-un0.normalTitle" = "Close";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "Mne-on-fkw"; */
+"Mne-on-fkw.text" = "Weight";
+
+/* Class = "UILabel"; text = "Exp Month"; ObjectID = "NW4-rt-TPm"; */
+"NW4-rt-TPm.text" = "Exp Month";
+
+/* Class = "UILabel"; text = "Save"; ObjectID = "NtG-bd-UcB"; */
+"NtG-bd-UcB.text" = "Save";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "O2B-00-X0g"; */
+"O2B-00-X0g.text" = ">";
+
+/* Class = "UILabel"; text = "Next"; ObjectID = "ODX-J2-6Hh"; */
+"ODX-J2-6Hh.text" = "Next";
+
+/* Class = "UILabel"; text = "Upgrade Account"; ObjectID = "OHd-Z1-Nj7"; */
+"OHd-Z1-Nj7.text" = "Upgrade Account";
+
+/* Class = "UITextField"; placeholder = "Please select your country"; ObjectID = "ONC-FF-Bff"; */
+"ONC-FF-Bff.placeholder" = "Please select your country";
+
+/* Class = "UILabel"; text = "Confirm Password"; ObjectID = "OPO-5V-8ed"; */
+"OPO-5V-8ed.text" = "Confirm Password";
+
+/* Class = "UILabel"; text = "Waist"; ObjectID = "OT9-bW-Euv"; */
+"OT9-bW-Euv.text" = "Waist";
+
+/* Class = "UILabel"; text = "$ 399"; ObjectID = "OX1-S8-Y8r"; */
+"OX1-S8-Y8r.text" = "$ 399";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "Onf-8f-Crj"; */
+"Onf-8f-Crj.text" = ">";
+
+/* Class = "UILabel"; text = "Promotion Code"; ObjectID = "Orm-73-vWi"; */
+"Orm-73-vWi.text" = "Promotion Code";
+
+/* Class = "UILabel"; text = "Done"; ObjectID = "P4f-Rw-UUq"; */
+"P4f-Rw-UUq.text" = "Done";
+
+/* Class = "UITextView"; text = "1. What is Lomi application?\n\nLomi application is a specialized application\nthrough which you lose weight wherever you\nare; and without going to nutritionist clinics! Youjust have to choose the dietitian from Lomi\ndietitians list. Then, your chosen dietitian will\ncontact you through the application, and will\ngive you a diet plan specialized for you, with\ncontinuous follo wing to gain your goal in losing weight.\n\n2. How do I register for Lomi application?\n\nAs soon as you download the application on\nyour mobile, two buttons will appear one is for registration; the other is for signing in.\nchoose \"Register now” button and enter your name, password, email, gender and country. Then, finish the registration process.\n\n3. Are there any advantages of registration in Lomi application, which obviate me from visiting the nutritionist clinic?\n\nYes...\n\n•\tContinuous consultation from dietitians to achieve the best and the most needed results related to your weight as well as your health.\n\n•\tThe ability to contact the dietitians any time through private messages between both of you.\n\n•\tFollowing-up the losing weight progress by the dietitians.\n\n•\tMaking amendments in your diet plan by the dietitians when it is required.\n\n•\tThe ability to upload photos for your own food so that the dietitians can comment on them whether approved or not.\n\n4. What does it take in order to get my diet program?\n\nTo get your special diet program, you just need to answer a few questions related to your health and your body measurements so that the dietitian can give you a customized diet plan which meets your abilities and needs; you may also change your diet program at any time you want and without even repeating your information.\n\n5. What are the types of subscriptions in Lomi application?\n\nThere are two types of subscriptions: the first is free, while the second will be paid through all Visa Card types, Appstore, or Google play.\n\n6. What are the advantages of the free subscription?\n\n•\tYou get to choose the dietitian.\n\n•\tYou will enjoy one week diet program \"My Diet\" according to your BMI.\n\n•\tThe ability to share types of food you eat by written posts or by uploading their photos.\n\n•\tThe ability to adjust your weight.\n\n•\tThe ability to see the list of the dietitians.\n\n•\tYou will enjoy two weeks for free contact with your chosen dietitian.
+\n7. What are the advantages of the paid subscription?
+\n•\tThe ability to choose the dietitian you want\n\n•\tYou will receive a special diet plan “My Diet” by the dietitian and according to your inserted data after reviewing your information that you have already submitted during registration process. In addition, you will be able to change the kinds of food you do not like and change them according to how much weight you aspire to lose.\n\n•\tPeriodical follow up through special messages between you and your dietitian, as well as the ability to ask your dietitian about anything related to your health, weight, and your daily routine in food and sports and many other things related to losing weight and improving your diet program “My Diet”.\n\n•\tUploading photos of your food and a short description of it on daily basis so that the dietitian can adjust your food or change it with another kind, if it's required.\n\n•\tThe ability of weighting in order for the dietitian to improve your diet program \"My Diet” or to add some adjustments, if it’s required.\n\n•\tThe dietitian will be improving and adjusting your special diet program “My Diet\" weekly, the thing that allows you to review the next week program and prepare the ingredients or change the kinds you do not like.\n\n8. How do I communicate with the dietitian?\n\nYou can communicate with your dietitian through an option entitled \"Messages” which is within the main list.\n\n9. How to share the photos of my food and other stuff with the dietitian?
+\nYou can share the photos of your food through an option entitled “Journal” which is within the main list.\n\n10. How can I get my diet program and how can I review it?\n\nThe dietitian will upload your diet program which will be within a list entitled “Daily plan” and thus you will be able to review it any time.\n\n11. How can I edit my weight?\n\nYou can adjust your weight through clicking on the \"Scale” icon which is within the main list.\n\n12. How can I edit my information?\n\nThrough an option entitled “Profile\" which is within the main list, from where you can adjust all your personal data.\n\n13. How can I edit my body measurements?\n\nThrough an option entitled “Profile” in which you will find a list special for body measurements and you can adjust your own measurements through it.\n\n14. What does the \"scale\" icon, which is within the main list, do?\n\nThe dietitian uses this icon to send you notifications about weight measurement, and you use it to adjust your weight.
+\n15. Are there any specific criteria by which I choose  the dietitian?
+\nYou may choose any dietitian you want, but you have to pay attention to the dietitian's status which will appear next to the name, the dietitian has a specific number of subscribers, thus the dietitian cannot receive more subscribers when he reaches the maximum number of users.\n\n16. What does it mean to upgrade the subscription?\n\nUpgrading your subscription of Lomi application means that you will enjoy the full advantages of the application, and you will be able to achieve your ideal weight.\n\n17. How do I upgrade my subscription of Lomi?\n\nClick on the option entitled \"Settings\" which is at the top of the application, then an option to upgrade will appear."; ObjectID = "PEy-IG-bY6"; */
+"PEy-IG-bY6.text" = "\"Brings health experts to your fingertips\"\n \n1- What is LomiApp?\n \n- LomiApp is a specialized application based on electronic communication between the user and the dietician which helps you lose weight wherever you are, without having to waste time going to specialized nutritionist clinics.\n\n- You just choose the dietitian from Lomi dietitians list. Then, you can start contacting your dietician through the application, and upon upgrading your subscription she will provide you with a customized diet plan, with continuous following to reach your goal in losing weight.\n\n \n2- How to use LomiApp?\n \n- Upon registration LomiApp provides you with one free week to communicate with the dietician you have chosen through the registration process where you can contact her about any related question and she will be your guide to lose weight and reach your goal\n\n- Also, you can upload your daily meals through \"My Journal \" icon inside the application so she can comment on the food quantities consumed and number of calories needed based on your BMI\n\n- Also, the application provides you with a 3-day general diet plan through which you can follow to try the application and communicate with your nutritionist before upgrading your subscription.\n\n \n3- Are there any advantages of registration in LomiApp, which obviate me from visiting the nutritionist clinic?\nYes, as LomiApp provides you with:\n\n-  Continuous consultation from your dietician to achieve the best and the most needed results related to your weight and  your health.\n\n-  The ability to contact your dietitian any time through private messages\n\n-  Follow up your progress in losing weight process and provide the needed feedback\n\n-  Providing a specialized diet plan based on your food likings and BMI\n\n-  The ability to upload your daily food intake from breakfast to dinner into \"Journal\" icon inside the application where your dietician can see on Real Time what you are eating and can provide you with the necessary feedback .\n\n \n4- How does LomiApp dietician provide me with customized diet plan?\n\n- After your free week has expired, you can upgrade your subsection to one of LomiApp packages, where you will receive a customized diet plan based on your health, BMI and other needs\n\n- You will only need to answer a few questions inside the App related to your health and body measurements.\n\n \n5- What are the types of subscriptions in LomiApp?\nThere are 2 types of subscriptions:\n\n1- Free week communication with dietician with 3-day general diet plan provided upon registration\n\n2- Paid packages:\n\n- Weekly $25\n\n- Monthly $79\n\n- 3 months $219\n\n- One month detox with supplements $160\n\n- Diabetes patient package 3 months $199\n\n- Cancer patient package 3 months $199\n\n- Pregnant mothers 6 months package $349\n\n\" you can complete the payment process through all Visa Card types or via bank transfer \"\n \n6- What is the one month subscription with detox supplements?\n\n- The course includes 3 products that are used together to :\n\n Detoxification of the body\n\n Colon Cleansing\n\n Regularity of disposal\n\n- Duration for subscription on this package is one month at least\n\n- The cost includes the delivery of the product to the user\n\n- The supplements are made of high-quality herbs and there are many product trials from Physicians Desk Reference (PDR) and there are no negative feedbacks so far\n\n- The supplement works on cleansing the digestive system and thus higher absorption for food\n\n- After the cleansing process is done, we begin to feed cells and form beneficial bacteria in the intestines\n\n \n7- How to benefit from the one week free subscription?\n\n- LomiApp provides you with the chance to try the application without any fee required for the first week , where you receive an open communication with the dietician you have chosen during the registration and a free 3 day general diet plan  for you to follow\n\n- The ability to share types of food you eat by written posts or by uploading their photos.\n\n- The ability to adjust your weight based on the progress done\n\n \n8- What are the advantages of the paid subscription?\n\n- The ability to choose the dietitian you want.\n\n- You will receive a customized diet plan by your dietitian and according to your inserted data after reviewing your information that you have already submitted during registration process.\n\n- In addition, you will be able to change the kinds of food you do not like according to how much weight you aspire to lose\n\n- Periodical follow up through special messages between you and your dietitian, as well as the ability to ask your dietitian about anything related to your health, weight, and your daily routine in food and sports and many other things related to losing weight and improving your diet program “My Diet”.\n\n- Uploading photos of your food and a short description of it on daily basis so that the dietitian can adjust your food or change it with another kind, if it’s required.\n\n- Weekly weight measurement, in order for the dietitian to track your progress to improve your diet program “My Diet” or to add some adjustments, if it’s required.\n\n- The dietitian will be improving and adjusting your special diet program “My Diet” weekly, the thing that allows you to review the next week program and prepare the ingredients or change the kinds you do not like.\n\n \n9- How do I communicate with my dietitian?\n\nYou can communicate with your dietitian through an option entitled “Messages” which is within the main list.\n\n\n10- How to share the photos of my food and other stuff with the dietitian?\n\nYou can share the photos of your food through an option entitled “Journal” which is within the main list.\n\n\n11- How can I get my diet program and how can I review it?\n\nUpon upgrading your subscription to one of LomiApp paid packages, your dietitian will start customizing a diet plan and it will be uploaded to your profile under “Daily Plan” icon and thus you will be able to review it any time.\n\n\n12- How can I edit my weight?\n\nYou can adjust your weight through clicking on the “Scale” icon called \" Progress \" which is within the main list.\n\n\n13- How can I edit my information?\n\nThrough an option entitled “Profile” which is within the main list, from where you can adjust all your personal data.\n\n\n14- How can I edit my body measurements?\n\nThrough an option entitled “Profile” in which you will find a list special for body measurements and you can adjust your own measurements through it.\n\n\n\n15- What does the “scale” icon, which is within the main list, do?\n\nThe dietitian uses this icon to send you notifications about weight measurement, track your progress and you can use it to adjust your weight on a weekly basis.\n\n16- Are there any specific criteria by which I choose the dietitian?\n\nYou may choose any dietitian you want, but you have to pay attention to the dietitian's status which will appear next to the name, the dietitian has a specific number of subscribers, thus the dietitian cannot receive more subscribers when he reaches the maximum number of users.\n \n17- What does it mean to upgrade the subscription?\n\nUpgrading your subscription of LomiApp means that you will enjoy the full advantages of the application, to start your first step to achieve your ideal weight.\n \n18- How to upgrade my subscription of Lomi?\n\nClick on the option entitled “Settings” located at the top right side inside the application, then you can choose one from our subscriptions packages. \n \n19- How the payment is made on LomiApp?\n\n- LomiApp is a Canadian company based in Canada and Dubai where we have a very high standard regarding the privacy and security with bank statements and payment through credit cards,\n\n- Where the payment is done through a very safe connection with payment gateways, like any payment process done with any shop, which doesn’t‎ give us the right to receive or keep any information entered on the payment screen\n\n- Only the bank processes this data directly with the payment gateway and transfer the amount to the company account with a very high standard regarding safety and privacy.\n\n \n20- Should I cancel my subscription after free week so no fee will be deducte?\n\nPlease note that there are no fees deducted unless you decide to upgrade your account manually through the App settings then you choose your required package and choose the payment method.\n \n21- How can I change the application language?\n\nYou can change the language of the application through \" Settings \" icon located on the right side of the application then choose application settings then choose language option.\n \n22- How can Lomi experts help me if i require a special diet plan according to my needs?\n\nLomiApp has a wide variety of dieticians with different specialties, where u can choose from them according to your specific need, for example if you are a diabetic patient, high blood pressure patient, Cancer patient, or if u suffer from kidney stones, etc. .... where you will receive a customized diet plan according to your health needs upon upgrading your subscription to one of LomiApp paid packages.\n \n23- What is the 3-day general diet plan?\n\nIt is general diet plan and not specific to the users need. where it is uploaded to your profile and aims you to try and test the application before subscribing to one of LomiApp packages.";
+
+/* Class = "UILabel"; text = "$ 219"; ObjectID = "PGx-pl-Rdr"; */
+"PGx-pl-Rdr.text" = "$ 219";
+
+/* Class = "UILabel"; text = "Disease"; ObjectID = "PMF-Bl-ODc"; */
+"PMF-Bl-ODc.text" = "Disease";
+
+/* Class = "UILabel"; text = "Code"; ObjectID = "Pls-NK-xub"; */
+"Pls-NK-xub.text" = "Code";
+
+/* Class = "UITextView"; text = "Please list below if you suffer from any Disease, Chronic condition, Food allergies or food sensitivities."; ObjectID = "Q5y-qD-pou"; */
+"Q5y-qD-pou.text" = "Please list below if you suffer from any Disease, Chronic condition, Food allergies or food sensitivities.";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "Q6R-oN-4N1"; */
+"Q6R-oN-4N1.text" = "Cancel";
+
+/* Class = "UILabel"; text = "Exp Date :"; ObjectID = "Q88-bu-lKX"; */
+"Q88-bu-lKX.text" = "Exp Date :";
+
+/* Class = "UILabel"; text = "Filter"; ObjectID = "Q8w-Xe-c37"; */
+"Q8w-Xe-c37.text" = "Filter";
+
+/* Class = "UIButton"; normalTitle = "Update Account"; ObjectID = "QUe-14-gZf"; */
+"QUe-14-gZf.normalTitle" = "Update Account";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "QeP-2W-koR"; */
+"QeP-2W-koR.normalTitle" = "English";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "Qqu-lz-U7e"; */
+"Qqu-lz-U7e.text" = ">";
+
+/* Class = "UILabel"; text = "Your Questionnaire (4/4)"; ObjectID = "QsH-FU-3AV"; */
+"QsH-FU-3AV.text" = "Your Questionnaire (4/4)";
+
+/* Class = "UILabel"; text = "ECONOMY 20%"; ObjectID = "Quw-xp-BSX"; */
+"Quw-xp-BSX.text" = "ECONOMY 20%";
+
+/* Class = "UILabel"; text = "Goal weight"; ObjectID = "Qvh-TT-RvN"; */
+"Qvh-TT-RvN.text" = "Goal weight";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "R9S-lD-hgg"; */
+"R9S-lD-hgg.text" = ">";
+
+/* Class = "UILabel"; text = "Next"; ObjectID = "RWS-C7-ijX"; */
+"RWS-C7-ijX.text" = "Next";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "Rbr-Ug-WbT"; */
+"Rbr-Ug-WbT.text" = ">";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "Rhb-Jf-nwX"; */
+"Rhb-Jf-nwX.title" = "Profile";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "RmT-hF-OP2"; */
+"RmT-hF-OP2.text" = "User Name";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "S0L-gt-wWC"; */
+"S0L-gt-wWC.text" = "Email";
+
+/* Class = "UILabel"; text = "Hips"; ObjectID = "S8Z-WP-oGT"; */
+"S8Z-WP-oGT.text" = "Hips";
+
+/* Class = "UILabel"; text = "Lara Chebli"; ObjectID = "SFI-fC-4eD"; */
+"SFI-fC-4eD.text" = "Lara Chebli";
+
+/* Class = "UILabel"; text = "the terms and conditions"; ObjectID = "SdA-7K-AZf"; */
+"SdA-7K-AZf.text" = "the terms and conditions";
+
+/* Class = "UILabel"; text = "Healthy"; ObjectID = "Sea-xy-goC"; */
+"Sea-xy-goC.text" = "Healthy";
+
+/* Class = "UILabel"; text = "Journal"; ObjectID = "T1M-DA-xko"; */
+"T1M-DA-xko.text" = "Journal";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "T3R-RP-WTM"; */
+"T3R-RP-WTM.text" = ">";
+
+/* Class = "UILabel"; text = "Height"; ObjectID = "T6E-b2-XBR"; */
+"T6E-b2-XBR.text" = "Height";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "TJA-v4-e20"; */
+"TJA-v4-e20.text" = ">";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Tgc-5P-WdY"; */
+"Tgc-5P-WdY.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Height (cm)"; ObjectID = "Too-jA-3Ni"; */
+"Too-jA-3Ni.text" = "Height (cm)";
+
+/* Class = "UILabel"; text = "ECONOMY 34%"; ObjectID = "Tqm-An-2Qp"; */
+"Tqm-An-2Qp.text" = "ECONOMY 34%";
+
+/* Class = "UILabel"; text = "Next"; ObjectID = "U0v-L5-NMv"; */
+"U0v-L5-NMv.text" = "Next";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "UGy-18-kKF"; */
+"UGy-18-kKF.text" = "Age";
+
+/* Class = "UILabel"; text = "3 / 5 (0 vote)"; ObjectID = "UU2-b0-ZYA"; */
+"UU2-b0-ZYA.text" = "3 / 5 (0 vote)";
+
+/* Class = "UILabel"; text = "Body Measurements"; ObjectID = "UWL-OF-RaP"; */
+"UWL-OF-RaP.text" = "Body Measurements";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "Ud3-mn-Ahl"; */
+"Ud3-mn-Ahl.text" = "Last Name";
+
+/* Class = "UILabel"; text = "Daily Plan"; ObjectID = "Ugd-72-Fov"; */
+"Ugd-72-Fov.text" = "Daily Plan";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "Uhe-MZ-PH3"; */
+"Uhe-MZ-PH3.text" = "Password";
+
+/* Class = "UILabel"; text = "Next"; ObjectID = "UtX-yd-N87"; */
+"UtX-yd-N87.text" = "Next";
+
+/* Class = "UILabel"; text = "New Photo"; ObjectID = "UyZ-kF-eu5"; */
+"UyZ-kF-eu5.text" = "New Photo";
+
+/* Class = "UILabel"; text = "FAQ"; ObjectID = "V3o-fd-rj7"; */
+"V3o-fd-rj7.text" = "FAQ";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "VF1-vX-xog"; */
+"VF1-vX-xog.text" = "0";
+
+/* Class = "UILabel"; text = "kg"; ObjectID = "VNq-iw-QxR"; */
+"VNq-iw-QxR.text" = "kg";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "Vc9-vS-dpt"; */
+"Vc9-vS-dpt.text" = "Password";
+
+/* Class = "UILabel"; text = "Credit Card"; ObjectID = "W1k-xO-qwf"; */
+"W1k-xO-qwf.text" = "Credit Card";
+
+/* Class = "UILabel"; text = "Lunch"; ObjectID = "WLB-DQ-VmU"; */
+"WLB-DQ-VmU.text" = "Lunch";
+
+/* Class = "UIButton"; normalTitle = "Create account"; ObjectID = "WRO-7T-sRn"; */
+"WRO-7T-sRn.normalTitle" = "Create account";
+
+/* Class = "UILabel"; text = "Frequently Asked Questions"; ObjectID = "WWv-ye-XR7"; */
+"WWv-ye-XR7.text" = "Frequently Asked Questions";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "WX9-V8-Xl9"; */
+"WX9-V8-Xl9.text" = "First Name";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "Wgk-Jl-4aP"; */
+"Wgk-Jl-4aP.text" = "Country";
+
+/* Class = "UILabel"; text = "Next"; ObjectID = "XHU-lJ-kr8"; */
+"XHU-lJ-kr8.text" = "Next";
+
+/* Class = "UILabel"; text = "Female"; ObjectID = "Xn0-Ou-aj0"; */
+"Xn0-Ou-aj0.text" = "Female";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "Xtx-yg-fP1"; */
+"Xtx-yg-fP1.text" = "1";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "Xxv-at-unG"; */
+"Xxv-at-unG.text" = "Settings";
+
+/* Class = "UILabel"; text = "Promotion Code"; ObjectID = "Xzu-9X-vYh"; */
+"Xzu-9X-vYh.text" = "Promotion Code";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "YCl-Hx-TrM"; */
+"YCl-Hx-TrM.text" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "YVD-Kg-NFI"; */
+"YVD-Kg-NFI.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Change weight"; ObjectID = "ZD0-0O-MC1"; */
+"ZD0-0O-MC1.text" = "Change weight";
+
+/* Class = "UILabel"; text = "Select your country"; ObjectID = "ZES-UM-2dl"; */
+"ZES-UM-2dl.text" = "Select your country";
+
+/* Class = "UIButton"; normalTitle = "Reset password"; ObjectID = "ZOM-Qh-6Tm"; */
+"ZOM-Qh-6Tm.normalTitle" = "Reset password";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "ZXL-LT-5Yj"; */
+"ZXL-LT-5Yj.text" = "Email";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Zjm-c6-nvD"; */
+"Zjm-c6-nvD.text" = "0";
+
+/* Class = "UILabel"; text = "Canada"; ObjectID = "ZkY-YD-mf6"; */
+"ZkY-YD-mf6.text" = "Canada";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "a19-Dq-hkh"; */
+"a19-Dq-hkh.text" = "Country";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "a3B-uT-o0a"; */
+"a3B-uT-o0a.text" = ">";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "aeM-08-lWT"; */
+"aeM-08-lWT.text" = "Cancel";
+
+/* Class = "UITextView"; text = "What is your reason to follow the diet program? Please choose one"; ObjectID = "afS-yz-zff"; */
+"afS-yz-zff.text" = "What is your reason to follow the diet program? Please choose one";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "ata-zO-IjS"; */
+"ata-zO-IjS.text" = "Weight";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "axM-w8-1ah"; */
+"axM-w8-1ah.text" = "0";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "b0A-gf-0oL"; */
+"b0A-gf-0oL.text" = "Cancel";
+
+/* Class = "UILabel"; text = "Pick from Library"; ObjectID = "b7n-4i-7zT"; */
+"b7n-4i-7zT.text" = "Pick from Library";
+
+/* Class = "UITextView"; text = "What often do you exercise for at least 30 minutes ?"; ObjectID = "bBk-cq-8Ns"; */
+"bBk-cq-8Ns.text" = "How often do you exercise for at least 30 minutes ?";
+
+/* Class = "UILabel"; text = "Length"; ObjectID = "bBm-vf-5EX"; */
+"bBm-vf-5EX.text" = "Length";
+
+/* Class = "UILabel"; text = "Weight (kg)"; ObjectID = "bCh-lG-ed5"; */
+"bCh-lG-ed5.text" = "Weight (kg)";
+
+/* Class = "UILabel"; text = "Today, 04 Dec"; ObjectID = "bfZ-Ep-3pm"; */
+"bfZ-Ep-3pm.text" = "Today, 04 Dec";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "bx9-Ag-8pe"; */
+"bx9-Ag-8pe.text" = "Male";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "c07-dQ-p2f"; */
+"c07-dQ-p2f.text" = "1";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "c0F-l1-5zi"; */
+"c0F-l1-5zi.text" = "Weight";
+
+/* Class = "UITextView"; text = "LOMI PLATFORM INC. TERMS OF SERVICE\nLast Updated: October 5, 2016
+\nTHESE TERMS OF SERVICE (“AGREEMENT”) ARE A LEGAL AGREEMENT BETWEEN YOU (“YOU” OR “YOUR”) AND LOMI PLATFORM INC. (“WE” OR “LOMI”), THE OWNER AND OPERATOR OF THE WWW.LOMI-APP.COM WEBSITE (THE “SITE”). \n\nYOU ACKNOWLEDGE AND AGREE THAT, BY ACCESSING OR USING THE SITE, APPLICATION OR SERVICES OR BY DOWNLOADING OR POSTING ANY CONTENT FROM OR ON THE SITE, VIA THE APPLICATION OR THROUGH THE SERVICES, YOU ARE INDICATING THAT YOU HAVE READ, AND THAT YOU UNDERSTAND AND AGREE TO BE BOUND BY THESE TERMS OF SERVICE (THE \"TERMS\"), WHETHER OR NOT YOU HAVE REGISTERED WITH THE SITE AND APPLICATION. IF YOU DO NOT AGREE TO THESE TERMS, THEN YOU HAVE NO RIGHT TO ACCESS OR USE THE SITE, APPLICATION, SERVICES, OR COLLECTIVE CONTENT. IF YOU ACCEPT OR AGREE TO THESE TERMS ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT AND WARRANT THAT YOU HAVE THE AUTHORITY TO BIND THAT COMPANY OR OTHER LEGAL ENTITY TO THESE TERMS AND, IN SUCH EVENT, “YOU” AND “YOUR” WILL REFER AND APPLY TO THAT COMPANY OR OTHER LEGAL ENTITY.\n1.\tDEFINITIONS\n“Coach” means a registered dietitian, registered nutritionists or a fitness expert who is a Member and who creates a Listing via the Site, Application and Services for Coaching Services.\n“Coaching Services” means nutrition coaching services provided by Coaches.\n“Content” means text, graphics, images, music, software (excluding the Application), audio, video, information or other materials.\n“Listing” means Coaching Services that are listed by a Coach as available for reservation via the Site, Application, and Services.\n“Member” means a person who completes Lomi’s account registration process, including but not limited to Coaches and Users, as described under “Account Registration” below.\n“Member Content” means all Content that a Member posts, uploads, publishes, submits, transmits, or includes in their Listing or Member profile to be made available through the Site, Application or Services.\n“Tax” or “Taxes” mean any sales taxes, value added taxes (VAT), goods and services taxes (GST), that Lomi may be required by law to collect and remit to governmental agencies.\n“User” means a Member who requests and/or receives Coaching Services from a Coach via the Site, Application or Services.\n\n2.\tCHANGES; PERSONAL INFORMATION/PRIVACY\nLomi may add to, change or remove any part of the Site, Application or Services including, without limitation, any Content, at any time without prior notice to you. \nYou agree to provide accurate, current, and complete information as required when completing a Lomi Registration and when purchasing a Subscription (as defined below) and to update that information as soon as possible after any changes. Lomi reserves the right to block further sales to any customer who provides false, inaccurate or incomplete data. You acknowledge that Lomi uses a third party payment processing service to processing orders and bill fees to your credit card. \n\nLomi’s Privacy Policy, located at [INSERT PRIVACY POLICY WEB ADDRESS] (the “Privacy Policy”), explains how your personally identifiable information is collected, used and disclosed. \n3.\tUSE OF THE SITE\nThe Site, Application and Services are intended solely for persons who are 18 or older. Any access to or use of the Site, Application or Services by anyone under 18 is expressly prohibited. By accessing or using the Site, Application or Services you represent and warrant that you are 18 or older.\nLomi provides an online platform that connects Registered Dietitians, Registered Nutritionists and Fitness Experts who provide nutrition coaching services with Users seeking to use such services (collectively, the “Services“) accessible at the Site and as applications for mobile, tablet and other smart devices and application program interfaces (collectively, the “Application“). \nThe Site, Application and Services make up an online platform where Coaches post listings for Coaching Services and Users may explore and reserve Coaching Services. You may view Listings as a visitor to the Site or Application; however, if you wish to book Coaching Services or create a Listing, you must first register to create an Lomi Account (defined below).\nYou understand and agree that Lomi has no control over the content contained in any Listing or conduct of any Member or other visitors to the Site and/or Application and disclaims all liability for such content or conduct. ACCORDINGLY, YOU UNDERSTAND AND AGREE THE USE OF OR PROVISION OF COACHING SERVICES (AS THE CASE MAY BE) SHALL BE AT YOUR OWN RISK.\n4.\tLOMI ACCOUNT REGISTRATION\nIn order to reserve Coaching Services or for Coaches create a Listing, you must register to create an account (\"Lomi Account\"). Once your Lomi Account is complete you become a member of the Site (\"Member\"). You may register directly via the Site or Application.\nYour Lomi Account will be created for your use of the Site and Application based upon the personal information you provide to Lomi. You may not have more than one (1) active Lomi Account. You agree to provide accurate, current and complete information during the registration process and to update such information to keep it accurate, current and complete. Lomi reserves the right to suspend or terminate your Lomi Account and your access to the Site, Application and Services if you create more than one (1) Lomi Account, or if any information provided during the registration process or thereafter proves to be inaccurate, fraudulent, not current, incomplete, or otherwise in violation of these Terms.\nYou are not permitted to share your Lomi Account with anyone or allow others to access or use your Lomi Account. You agree that you will take sole responsibility for any activities or actions under your Lomi Account, whether or not you have authorized such activities or actions. You will immediately notify Lomi of any unauthorized use of your Lomi Account.\n\n5.\tCOACHING SERVICES LISTINGS\nMembers who are Coaches and who have executed an 'Independent Nutritionist Agreement' with Lomi may create a Listing. To create a Listing, Coaches are required to submit details relating to the Coaching Services to be listed. Once Lomi has approved the submitted Listing, it will be made publicly available via the Site and Application. Coaches must otherwise comply with all terms in the 'Independent Nutritionist Agreement.'\n\n6.\tNO ENDORSEMENT\nBy using the Site, Application or Services, you agree that any legal remedy or liability that you seek to obtain for actions or omissions of other Members or third parties will be limited to a claim against the particular Members or third parties who caused you harm. You agree not to attempt to impose liability on or seek any legal remedy from Lomi with respect to such actions or omissions. \n\n7.\tTERMS OF SALE\nA.\tTerms for Coaches\nLomi pay Coaches in accordance with the terms of the 'Independent Nutritionist Agreement.'\nB.\tTerms for Users\nUsers may reserve Coaching Services once they have completed their registration and have purchased a subscription (the \"Subscription\"). After purchasing a Subscription, Users will be able to request to reserve Coaching Services that are made available through Listings. A User may only have one (1) active reserved Coaching Service at any time. \n\nSubscriptions are offered by Lomi through the Site are only an offer to conclude a sales contract. The sales contract is only concluded upon the confirmation of the order by e-mail by Lomi to you. The price of a Subscription as shown on the Site is the net price of the product, not including any applicable Taxes. The total price of your order will be reflected on Lomi's final checkout page. An order receipt shall be sent to the email address you provided during registration. \n\nLomi reserves the right to change the prices for Subscriptions at any time, and does not provide price protection or refunds in the event of promotions or price decreases. All sales are final and Lomi does not provide refunds once a Subscription has been purchased. \n\nOnly credit cards (Visa, MasterCard, and American Express) can be used to purchase a Subscription. You agree to pay all fees charged to your account based on the Subscription, Taxes, charges, and billing terms in effect as shown on the payment page when you purchase a Subscription. \n\nYou are responsible for paying the amount reflected on the final checkout page. If you do not wish to pay the final amount reflected on the final checkout page you cannot finalize the Subscription purchase. You authorize the third party payment processing service provider that we engage to charge your credit card for the Subscription, Taxes and fees. You must provide your credit card information at the time you purchase a Subscription. \n\nYou represent and warrant that you are the cardholder of any credit card used to purchase a Subscription. If your credit card is rejected by the card issuer, if you do not pay on time or if your credit card cannot be charged for any reason, Lomi reserves the right to either suspend or terminate your Lomi Account and/or Subscription. \n\nAll sales and payments will be in US Dollars. Subscriptions are billed in advance on a One (1), Three (3) or Six (6) month term as per the option you have chosen when you purchase the Subscription. Subscription payments are non-refundable. \n\nYou agree that Lomi has permission to, if required, retain and/or share with financial institutions and payment processing firms (including any institutions or firms Lomi retains in the future) your submitted payment information in order to process your Subscription payment. Depending on where you transact, the type of payment method used and where your payment method was issued, your transaction with Lomi may be subject to foreign exchange fees or differences in prices because of exchange rates.\n\nIf you have any problems, please email admin@lomi-app.com. \n\nC.\tCancellations \nIn the unlikely event that a Coach cancels or is otherwise unable to deliver a an approved Coaching Service reservation, Lomi will reassign the User to another Coach who provides substantially similar Coaching Services.\n\n8.\tUSER CONDUCT\nSubject to your compliance with this Agreement, Lomi hereby grants you a limited, personal, revocable, non-transferable, non-sublicensable, and non-exclusive license to access the Site and Application and use the Content displayed on the Site and Application or made available to you through your Subscription solely for the uses described in this Agreement.\n\nYou may not copy, modify, reproduce, publicly display or perform, distribute, create derivate works from or otherwise use the Content except as expressly set forth in this Agreement. You may not remove any copyright or other proprietary notices from any Content. If, in Lomi's sole opinion, you breach any term of this Agreement, your authorization to use the Site, Application and Services automatically terminates without notice to you. You hereby represent and warrant that you will not, and will not induce any third party to: (a) attempt to disable or circumvent any security mechanisms used by the Site, Application, Services or Content or otherwise attempt to gain unauthorized access to any portion of the Site, Application, Services or Content or any other systems or networks connected to the Site, or to any server of Lomi or its third party service providers, by hacking, password “mining”, or any other illegal means; (b) use any device, program, algorithm or methodology, or any comparable manual process, to access, acquire, copy, or monitor any portion of the Site, Application, Services or Content; (c) use any device, software or routine to interrupt or interfere with, or attempt to interrupt or interfere with, the proper operation and working of the Site or with any other person’s use of the Site, Application, Services or Content; (d) track or seek to trace, harvest or compile any information on any other person who visits the Site, Application, Services or Content; (e) use the Site, Application, Services or Content for, or in connection with, any illegal purpose, to solicit, facilitate, encourage, condone, or induce any illegal activity, or as otherwise prohibited by this Agreement or applicable laws, rules or regulations; or (f) copy, modify, create a derivative work of, reverse engineer, decompile, or otherwise attempt to extract the source code of any proprietary software used to provide, maintain, or otherwise applicable to the Site, Application, Services or Content.\n\n9.\tINTELLECTUAL PROPERTY OWNERSHIP AND RIGHTS NOTICES\n\nThe Site, Application, Services, and Content are protected by copyright, trademark, and other laws of Canada. You acknowledge and agree that the Site, Application, Services and Content, including all associated intellectual property rights, are the exclusive property of Lomi. You will not remove, alter or obscure any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying the Site, Application, Services, or Content. \nWe may, in our sole discretion, permit you to post, upload, publish, submit or transmit Member Content. By making available any Member Content on or through the Site, Application or Services, you hereby grant to Lomi a worldwide, irrevocable, perpetual, non-exclusive, transferable, royalty-free license, with the right to sublicense, to use, view, copy, adapt, translate, modify, distribute, license, sell, transfer, publicly display, publicly perform, transmit, stream, broadcast, access, view, and otherwise exploit such Member Content on, through, by means of or to promote or market the Site, Application and Services. Lomi does not claim any ownership rights in any such Member Content and nothing in these Terms will be deemed to restrict any rights that you may have to use and exploit any such Member Content.\nYou acknowledge and agree that you are solely responsible for all Member Content that you make available through the Site, Application or Services. Accordingly, you represent and warrant that: (i) you either are the sole and exclusive owner of all Member Content that you make available through the Site, Application or Services or you have all rights, licenses, consents and releases that are necessary to grant to Lomi the rights in such Member Content, as contemplated under these Terms; and (ii) neither the Member Content nor your posting, uploading, publication, submission or transmittal of the Member Content or Lomi’s use of the Member Content (or any portion thereof) on, through or by means of the Site, Application or the Services will infringe, misappropriate or violate a third party’s patent, copyright, trademark, trade secret, moral rights or other proprietary or intellectual property rights, or rights of publicity or privacy, or result in the violation of any applicable law or regulation.\n\n10.\tTHIRD PARTY SITES; INDEMNIFICATION\n\nThe Site, Application and Services may provide links to third party sites that are not owned or controlled by Lomi, (“Third Party Sites”). We provide such links solely as a convenience to you. Lomi does not review, approve, endorse, or make any representations about such Third Party Sites, the companies or persons who own and/or operate them, or any information, software or other products and services made available through such Third Party Sites, or any results that may be obtained from using them. You should exercise common sense and your own judgment, and if you decide to access any Third Party Sites linked to the Site, you do so entirely at your own risk, and you are solely responsible for your activities conducted in connection with such Third Party Sites. Your use of Third Party Sites is subject to the terms of use and privacy policies located on the linked to Third Party Sites which may be different from this Agreement or our Privacy Policy, including, without limitation, such Third Party Sites’ password and account security policies and user-generated content posting and acceptable use policies.\n\nYou hereby agree to defend, indemnify and hold each of the Lomi Parties (as defined in Section 11 below) harmless from and against, any and all losses, liabilities, damages, costs (including, without limitation, legal fees and costs), and third party claims arising out of or in any way connected with a breach of this Agreement, or otherwise arising from your use or misuse of the Site, Application, Services, Content or a Subscription. \n\n11.\tDISCLAIMER OF WARRANTIES\nTHE SITE, APPLICATION, SERVICES, CONTENT AND SUBSCRIPTIONS ARE FURNISHED TO YOU WITHOUT WARRANTIES, REPRESENTATIONS OR CONDITIONS, STATUTORY OR OTHERWISE, OF ANY KIND. LOMI, ON BEHALF OF ITSELF AND ITS THIRD PARTY SERVICE PROVIDERS, AND EACH OF THEIR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES, CONTRACTORS, AGENTS, SUCCESSORS, AND ASSIGNS (COLLECTIVELY, THE “LOMI PARTIES”): (A) EXPRESSLY DISCLAIMS ALL REPRESENTATIONS, WARRANTIES AND CONDITIONS, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF NON-INFRINGEMENT, TITLE, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE; (B) DOES NOT REPRESENT OR WARRANT THAT THE SITE, CONTENT AND SUBSCRIPTIONS WILL MEET YOUR REQUIREMENTS, OR THAT THE OPERATION OF THE SITE, APPLICATION, SERVICES, CONTENT AND SUBSCRIPTIONS WILL BE TIMELY, UNINTERRUPTED, STABLE, OR SECURE; (C) DOES NOT REPRESENT OR WARRANT THAT THE SITE, APPLICATION, SERVICES, CONTENT AND SUBSCRIPTIONS WILL BE ERROR-FREE OR THAT ANY DEFECTS WILL BE CORRECTED; (D) DOES NOT REPRESENT AND WARRANT THAT THE SITE OR APPLICATION WILL BE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS; AND (E) DOES NOT MAKE ANY REPRESENTATIONS, WARRANTIES, OR CONDITIONS REGARDING THE USE OF THE SITE, APPLICATION, SERVICES, CONTENT AND SUBSCRIPTIONS IN TERMS OF THEIR ACCURACY, RELIABILITY, TIMELINESS, COMPLETENESS, OR OTHERWISE. YOUR USE OF THE SITE, APPLICATION, SERVICES, CONTENT AND SUBSCRIPTIONS IS ENTIRELY AT YOUR OWN DISCRETION AND RISK AND YOU ASSUME TOTAL RESPONSIBILITY FOR YOUR USE OF THE SITE, APPLICATION, SERVICES, CONTENT AND SUBSCRIPTIONS. YOU ACKNOWLEDGE AND AGREE THIS LIMITATION OF REMEDIES IS AN IMPORTANT PART OF THE AGREEMENT BETWEEN YOU AND LOMI. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY LOMI OR ANY PERSON ON BEHALF OF LOMI SHALL CREATE A WARRANTY OR CONDITION, OR IN ANY WAY CHANGE THIS EXCLUSION OF WARRANTY.\n\n12.\tLIMITATION OF LIABILITY\n7.1 – IN NO EVENT SHALL ANY LOMI PARTY BE LIABLE TO YOU, OR ANY THIRD PARTY, FOR ANY SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE, EXEMPLARY, RELIANCE, OR CONSEQUENTIAL DAMAGES OF ANY KIND, INCLUDING, BUT NOT LIMITED TO, PROPERTY DAMAGE, LOSS OF VALUE OR LOSS OF USE OF THE SITE, APPLICATION, SERVICES, CONTENT AND SUBSCRIPTIONS, WHETHER BASED ON BREACH OF ANY EXPRESS OR IMPLIED WARRANTY OR CONDITION, BREACH OF CONTRACT OR TORT (INCLUDING, WITHOUT LIMITATION, NEGLIGENCE OR STRICT LIABILITY), EVEN IF A LOMI PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.\n\n7.2 – IF, NOTWITHSTANDING THE FOREGOING, LOMI IS FOUND TO BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DAMAGE OR LOSS WHICH ARISES UNDER OR IN CONNECTION WITH YOUR USE OF THE SITE, APPLICATION, SERVICES, CONTENT AND SUBSCRIPTIONS, THE RELEVANT LOMI PARTY’S TOTAL CUMULATIVE LIABILITY SHALL IN NO EVENT EXCEED THE GREATER OF: (A) THE AMOUNT YOU PAID LOMI FOR THE SUBSCRIPTION, AS APPLICABLE; AND (B) THE SUM OF ONE HUNDRED (100) DOLLARS.\n\n13.\tDISPUTES; CHOICE OF LAW\n8.1 - This Agreement shall be governed by and construed in accordance with the laws of the Province of Ontario. The parties hereby submit to the jurisdiction of the courts of the Province of Ontario located in Toronto, Ontario, which shall have exclusive jurisdiction over all disputes arising hereunder or in connection with this Agreement.\n\n14.\tELECTRONIC COMMUNICATIONS; GENERAL TERMS\n\nWhenever you visit our Site, Application and Services or send emails to Lomi, you are communicating with Lomi electronically. For that reason, you also consent to receive communications from Lomi electronically regarding administrative or account information. Since these administrative or account electronic communications are essential to the successful and effective functioning of your Subscription, the sole remedy to 'opt-out' is to cancel your Lomi Account. You may cancel your Lomi Account either by logging into your account and following the cancellation procedures or by emailing a request to admin@lomi-app.com. Lomi will communicate with you by email, by posting notices on the Site, Application and Services or by such other means as we may determine from time-to-time. You agree that all agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing, to the extent permitted by applicable law.\n\nLomi may issue a warning, temporarily suspend, indefinitely suspend or terminate your right to use or access the Site, Application and Services including a Subscription, without notice, for any reason, in Lomi’s sole discretion, including without limitation breach of this Agreement and/or a violation of these Terms of Service, Lomi’s belief that such access would violate any applicable law, rule or regulation or would be harmful to the interests of, or potentially cause financial loss or legal liability to Lomi or another user of the Site, Application and Services.\n\nThis Agreement and the Privacy Policy constitute the entire agreement between you and Lomi regarding its subject matter. \n\nThe failure of Lomi to exercise or enforce any right or provision of this Agreement shall not constitute a waiver of such right or provision. \n\nIf any part of this Agreement is held invalid, illegal or unenforceable, that provision shall be enforced to the maximum extent permissible so as to maintain the intent of this Agreement, and the other parts will remain in full force and effect. \n\nThe parties shall at all times and for all purposes be deemed to be independent contractors and neither party nor its agents may bind the other party. \n\nThe parties acknowledge and agree that this Agreement and all related documents shall be drawn up in the English language.\n\nThis Agreement shall not be interpreted or construed to confer any rights or remedies on any third parties, except that each indemnified Lomi Party shall be a third party beneficiary hereunder. Lomi may assign or transfer its rights, or delegate any performance, under this Agreement to a third party in its sole discretion. You may not assign or otherwise transfer your rights, or delegate your performance, under this Agreement to any third party without Lomi’s express prior written consent. \n\nAll terms which by their nature are intended to survive any termination of this Agreement, or any termination of your use of the Site, Application, Services, Content or Subscriptions shall survive such termination."; ObjectID = "c18-39-JmT"; */
+"c18-39-JmT.text" = "LOMI PLATFORM INC. TERMS OF SERVICE\nLast Updated: October 5, 2016\nTHESE TERMS OF SERVICE (“AGREEMENT”) ARE A LEGAL AGREEMENT BETWEEN YOU (“YOU” OR “YOUR”) AND LOMI PLATFORM INC. (“WE” OR “LOMI”), THE OWNER AND OPERATOR OF THE WWW.LOMI-APP.COM WEBSITE (THE “SITE”). \n\nYOU ACKNOWLEDGE AND AGREE THAT, BY ACCESSING OR USING THE SITE, APPLICATION OR SERVICES OR BY DOWNLOADING OR POSTING ANY CONTENT FROM OR ON THE SITE, VIA THE APPLICATION OR THROUGH THE SERVICES, YOU ARE INDICATING THAT YOU HAVE READ, AND THAT YOU UNDERSTAND AND AGREE TO BE BOUND BY THESE TERMS OF SERVICE (THE \"TERMS\"), WHETHER OR NOT YOU HAVE REGISTERED WITH THE SITE AND APPLICATION. IF YOU DO NOT AGREE TO THESE TERMS, THEN YOU HAVE NO RIGHT TO ACCESS OR USE THE SITE, APPLICATION, SERVICES, OR COLLECTIVE CONTENT. IF YOU ACCEPT OR AGREE TO THESE TERMS ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT AND WARRANT THAT YOU HAVE THE AUTHORITY TO BIND THAT COMPANY OR OTHER LEGAL ENTITY TO THESE TERMS AND, IN SUCH EVENT, “YOU” AND “YOUR” WILL REFER AND APPLY TO THAT COMPANY OR OTHER LEGAL ENTITY.\n1.\tDEFINITIONS\n“Coach” means a registered dietitian, registered nutritionists or a fitness expert who is a Member and who creates a Listing via the Site, Application and Services for Coaching Services.\n“Coaching Services” means nutrition coaching services provided by Coaches.\n“Content” means text, graphics, images, music, software (excluding the Application), audio, video, information or other materials.\n“Listing” means Coaching Services that are listed by a Coach as available for reservation via the Site, Application, and Services.\n“Member” means a person who completes Lomi’s account registration process, including but not limited to Coaches and Users, as described under “Account Registration” below.\n“Member Content” means all Content that a Member posts, uploads, publishes, submits, transmits, or includes in their Listing or Member profile to be made available through the Site, Application or Services.\n“Tax” or “Taxes” mean any sales taxes, value added taxes (VAT), goods and services taxes (GST), that Lomi may be required by law to collect and remit to governmental agencies.\n“User” means a Member who requests and/or receives Coaching Services from a Coach via the Site, Application or Services.\n\n2.\tCHANGES; PERSONAL INFORMATION/PRIVACY\nLomi may add to, change or remove any part of the Site, Application or Services including, without limitation, any Content, at any time without prior notice to you. \nYou agree to provide accurate, current, and complete information as required when completing a Lomi Registration and when purchasing a Subscription (as defined below) and to update that information as soon as possible after any changes. Lomi reserves the right to block further sales to any customer who provides false, inaccurate or incomplete data. You acknowledge that Lomi uses a third party payment processing service to processing orders and bill fees to your credit card. \n\nLomi’s Privacy Policy, located at [INSERT PRIVACY POLICY WEB ADDRESS] (the “Privacy Policy”), explains how your personally identifiable information is collected, used and disclosed. \n3.\tUSE OF THE SITE\nThe Site, Application and Services are intended solely for persons who are 18 or older. Any access to or use of the Site, Application or Services by anyone under 18 is expressly prohibited. By accessing or using the Site, Application or Services you represent and warrant that you are 18 or older.\nLomi provides an online platform that connects Registered Dietitians, Registered Nutritionists and Fitness Experts who provide nutrition coaching services with Users seeking to use such services (collectively, the “Services“) accessible at the Site and as applications for mobile, tablet and other smart devices and application program interfaces (collectively, the “Application“). \nThe Site, Application and Services make up an online platform where Coaches post listings for Coaching Services and Users may explore and reserve Coaching Services. You may view Listings as a visitor to the Site or Application; however, if you wish to book Coaching Services or create a Listing, you must first register to create an Lomi Account (defined below).\nYou understand and agree that Lomi has no control over the content contained in any Listing or conduct of any Member or other visitors to the Site and/or Application and disclaims all liability for such content or conduct. ACCORDINGLY, YOU UNDERSTAND AND AGREE THE USE OF OR PROVISION OF COACHING SERVICES (AS THE CASE MAY BE) SHALL BE AT YOUR OWN RISK.\n4.\tLOMI ACCOUNT REGISTRATION\nIn order to reserve Coaching Services or for Coaches create a Listing, you must register to create an account (\"Lomi Account\"). Once your Lomi Account is complete you become a member of the Site (\"Member\"). You may register directly via the Site or Application.\nYour Lomi Account will be created for your use of the Site and Application based upon the personal information you provide to Lomi. You may not have more than one (1) active Lomi Account. You agree to provide accurate, current and complete information during the registration process and to update such information to keep it accurate, current and complete. Lomi reserves the right to suspend or terminate your Lomi Account and your access to the Site, Application and Services if you create more than one (1) Lomi Account, or if any information provided during the registration process or thereafter proves to be inaccurate, fraudulent, not current, incomplete, or otherwise in violation of these Terms.\nYou are not permitted to share your Lomi Account with anyone or allow others to access or use your Lomi Account. You agree that you will take sole responsibility for any activities or actions under your Lomi Account, whether or not you have authorized such activities or actions. You will immediately notify Lomi of any unauthorized use of your Lomi Account.\n\n5.\tCOACHING SERVICES LISTINGS\nMembers who are Coaches and who have executed an 'Independent Nutritionist Agreement' with Lomi may create a Listing. To create a Listing, Coaches are required to submit details relating to the Coaching Services to be listed. Once Lomi has approved the submitted Listing, it will be made publicly available via the Site and Application. Coaches must otherwise comply with all terms in the 'Independent Nutritionist Agreement.'\n\n6.\tNO ENDORSEMENT\nBy using the Site, Application or Services, you agree that any legal remedy or liability that you seek to obtain for actions or omissions of other Members or third parties will be limited to a claim against the particular Members or third parties who caused you harm. You agree not to attempt to impose liability on or seek any legal remedy from Lomi with respect to such actions or omissions. \n\n7.\tTERMS OF SALE\nA.\tTerms for Coaches\nLomi pay Coaches in accordance with the terms of the 'Independent Nutritionist Agreement.'\nB.\tTerms for Users\nUsers may reserve Coaching Services once they have completed their registration and have purchased a subscription (the \"Subscription\"). After purchasing a Subscription, Users will be able to request to reserve Coaching Services that are made available through Listings. A User may only have one (1) active reserved Coaching Service at any time. \n\nSubscriptions are offered by Lomi through the Site are only an offer to conclude a sales contract. The sales contract is only concluded upon the confirmation of the order by e-mail by Lomi to you. The price of a Subscription as shown on the Site is the net price of the product, not including any applicable Taxes. The total price of your order will be reflected on Lomi's final checkout page. An order receipt shall be sent to the email address you provided during registration. \n\nLomi reserves the right to change the prices for Subscriptions at any time, and does not provide price protection or refunds in the event of promotions or price decreases. All sales are final and Lomi does not provide refunds once a Subscription has been purchased. \n\nOnly credit cards (Visa, MasterCard, and American Express) can be used to purchase a Subscription. You agree to pay all fees charged to your account based on the Subscription, Taxes, charges, and billing terms in effect as shown on the payment page when you purchase a Subscription. \n\nYou are responsible for paying the amount reflected on the final checkout page. If you do not wish to pay the final amount reflected on the final checkout page you cannot finalize the Subscription purchase. You authorize the third party payment processing service provider that we engage to charge your credit card for the Subscription, Taxes and fees. You must provide your credit card information at the time you purchase a Subscription. \n\nYou represent and warrant that you are the cardholder of any credit card used to purchase a Subscription. If your credit card is rejected by the card issuer, if you do not pay on time or if your credit card cannot be charged for any reason, Lomi reserves the right to either suspend or terminate your Lomi Account and/or Subscription. \n\nAll sales and payments will be in US Dollars. Subscriptions are billed in advance on a One (1), Three (3) or Six (6) month term as per the option you have chosen when you purchase the Subscription. Subscription payments are non-refundable. \n\nYou agree that Lomi has permission to, if required, retain and/or share with financial institutions and payment processing firms (including any institutions or firms Lomi retains in the future) your submitted payment information in order to process your Subscription payment. Depending on where you transact, the type of payment method used and where your payment method was issued, your transaction with Lomi may be subject to foreign exchange fees or differences in prices because of exchange rates.\n\nIf you have any problems, please email admin@lomi-app.com. \n\nC.\tCancellations \nIn the unlikely event that a Coach cancels or is otherwise unable to deliver a an approved Coaching Service reservation, Lomi will reassign the User to another Coach who provides substantially similar Coaching Services.\n\n8.\tUSER CONDUCT\nSubject to your compliance with this Agreement, Lomi hereby grants you a limited, personal, revocable, non-transferable, non-sublicensable, and non-exclusive license to access the Site and Application and use the Content displayed on the Site and Application or made available to you through your Subscription solely for the uses described in this Agreement.\n\nYou may not copy, modify, reproduce, publicly display or perform, distribute, create derivate works from or otherwise use the Content except as expressly set forth in this Agreement. You may not remove any copyright or other proprietary notices from any Content. If, in Lomi's sole opinion, you breach any term of this Agreement, your authorization to use the Site, Application and Services automatically terminates without notice to you. You hereby represent and warrant that you will not, and will not induce any third party to: (a) attempt to disable or circumvent any security mechanisms used by the Site, Application, Services or Content or otherwise attempt to gain unauthorized access to any portion of the Site, Application, Services or Content or any other systems or networks connected to the Site, or to any server of Lomi or its third party service providers, by hacking, password “mining”, or any other illegal means; (b) use any device, program, algorithm or methodology, or any comparable manual process, to access, acquire, copy, or monitor any portion of the Site, Application, Services or Content; (c) use any device, software or routine to interrupt or interfere with, or attempt to interrupt or interfere with, the proper operation and working of the Site or with any other person’s use of the Site, Application, Services or Content; (d) track or seek to trace, harvest or compile any information on any other person who visits the Site, Application, Services or Content; (e) use the Site, Application, Services or Content for, or in connection with, any illegal purpose, to solicit, facilitate, encourage, condone, or induce any illegal activity, or as otherwise prohibited by this Agreement or applicable laws, rules or regulations; or (f) copy, modify, create a derivative work of, reverse engineer, decompile, or otherwise attempt to extract the source code of any proprietary software used to provide, maintain, or otherwise applicable to the Site, Application, Services or Content.\n\n9.\tINTELLECTUAL PROPERTY OWNERSHIP AND RIGHTS NOTICES\n\nThe Site, Application, Services, and Content are protected by copyright, trademark, and other laws of Canada. You acknowledge and agree that the Site, Application, Services and Content, including all associated intellectual property rights, are the exclusive property of Lomi. You will not remove, alter or obscure any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying the Site, Application, Services, or Content. \nWe may, in our sole discretion, permit you to post, upload, publish, submit or transmit Member Content. By making available any Member Content on or through the Site, Application or Services, you hereby grant to Lomi a worldwide, irrevocable, perpetual, non-exclusive, transferable, royalty-free license, with the right to sublicense, to use, view, copy, adapt, translate, modify, distribute, license, sell, transfer, publicly display, publicly perform, transmit, stream, broadcast, access, view, and otherwise exploit such Member Content on, through, by means of or to promote or market the Site, Application and Services. Lomi does not claim any ownership rights in any such Member Content and nothing in these Terms will be deemed to restrict any rights that you may have to use and exploit any such Member Content.\nYou acknowledge and agree that you are solely responsible for all Member Content that you make available through the Site, Application or Services. Accordingly, you represent and warrant that: (i) you either are the sole and exclusive owner of all Member Content that you make available through the Site, Application or Services or you have all rights, licenses, consents and releases that are necessary to grant to Lomi the rights in such Member Content, as contemplated under these Terms; and (ii) neither the Member Content nor your posting, uploading, publication, submission or transmittal of the Member Content or Lomi’s use of the Member Content (or any portion thereof) on, through or by means of the Site, Application or the Services will infringe, misappropriate or violate a third party’s patent, copyright, trademark, trade secret, moral rights or other proprietary or intellectual property rights, or rights of publicity or privacy, or result in the violation of any applicable law or regulation.\n\n10.\tTHIRD PARTY SITES; INDEMNIFICATION\n\nThe Site, Application and Services may provide links to third party sites that are not owned or controlled by Lomi, (“Third Party Sites”). We provide such links solely as a convenience to you. Lomi does not review, approve, endorse, or make any representations about such Third Party Sites, the companies or persons who own and/or operate them, or any information, software or other products and services made available through such Third Party Sites, or any results that may be obtained from using them. You should exercise common sense and your own judgment, and if you decide to access any Third Party Sites linked to the Site, you do so entirely at your own risk, and you are solely responsible for your activities conducted in connection with such Third Party Sites. Your use of Third Party Sites is subject to the terms of use and privacy policies located on the linked to Third Party Sites which may be different from this Agreement or our Privacy Policy, including, without limitation, such Third Party Sites’ password and account security policies and user-generated content posting and acceptable use policies.\n\nYou hereby agree to defend, indemnify and hold each of the Lomi Parties (as defined in Section 11 below) harmless from and against, any and all losses, liabilities, damages, costs (including, without limitation, legal fees and costs), and third party claims arising out of or in any way connected with a breach of this Agreement, or otherwise arising from your use or misuse of the Site, Application, Services, Content or a Subscription. \n\n11.\tDISCLAIMER OF WARRANTIES\nTHE SITE, APPLICATION, SERVICES, CONTENT AND SUBSCRIPTIONS ARE FURNISHED TO YOU WITHOUT WARRANTIES, REPRESENTATIONS OR CONDITIONS, STATUTORY OR OTHERWISE, OF ANY KIND. LOMI, ON BEHALF OF ITSELF AND ITS THIRD PARTY SERVICE PROVIDERS, AND EACH OF THEIR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES, CONTRACTORS, AGENTS, SUCCESSORS, AND ASSIGNS (COLLECTIVELY, THE “LOMI PARTIES”): (A) EXPRESSLY DISCLAIMS ALL REPRESENTATIONS, WARRANTIES AND CONDITIONS, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF NON-INFRINGEMENT, TITLE, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE; (B) DOES NOT REPRESENT OR WARRANT THAT THE SITE, CONTENT AND SUBSCRIPTIONS WILL MEET YOUR REQUIREMENTS, OR THAT THE OPERATION OF THE SITE, APPLICATION, SERVICES, CONTENT AND SUBSCRIPTIONS WILL BE TIMELY, UNINTERRUPTED, STABLE, OR SECURE; (C) DOES NOT REPRESENT OR WARRANT THAT THE SITE, APPLICATION, SERVICES, CONTENT AND SUBSCRIPTIONS WILL BE ERROR-FREE OR THAT ANY DEFECTS WILL BE CORRECTED; (D) DOES NOT REPRESENT AND WARRANT THAT THE SITE OR APPLICATION WILL BE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS; AND (E) DOES NOT MAKE ANY REPRESENTATIONS, WARRANTIES, OR CONDITIONS REGARDING THE USE OF THE SITE, APPLICATION, SERVICES, CONTENT AND SUBSCRIPTIONS IN TERMS OF THEIR ACCURACY, RELIABILITY, TIMELINESS, COMPLETENESS, OR OTHERWISE. YOUR USE OF THE SITE, APPLICATION, SERVICES, CONTENT AND SUBSCRIPTIONS IS ENTIRELY AT YOUR OWN DISCRETION AND RISK AND YOU ASSUME TOTAL RESPONSIBILITY FOR YOUR USE OF THE SITE, APPLICATION, SERVICES, CONTENT AND SUBSCRIPTIONS. YOU ACKNOWLEDGE AND AGREE THIS LIMITATION OF REMEDIES IS AN IMPORTANT PART OF THE AGREEMENT BETWEEN YOU AND LOMI. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY LOMI OR ANY PERSON ON BEHALF OF LOMI SHALL CREATE A WARRANTY OR CONDITION, OR IN ANY WAY CHANGE THIS EXCLUSION OF WARRANTY.\n\n12.\tLIMITATION OF LIABILITY\n7.1 – IN NO EVENT SHALL ANY LOMI PARTY BE LIABLE TO YOU, OR ANY THIRD PARTY, FOR ANY SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE, EXEMPLARY, RELIANCE, OR CONSEQUENTIAL DAMAGES OF ANY KIND, INCLUDING, BUT NOT LIMITED TO, PROPERTY DAMAGE, LOSS OF VALUE OR LOSS OF USE OF THE SITE, APPLICATION, SERVICES, CONTENT AND SUBSCRIPTIONS, WHETHER BASED ON BREACH OF ANY EXPRESS OR IMPLIED WARRANTY OR CONDITION, BREACH OF CONTRACT OR TORT (INCLUDING, WITHOUT LIMITATION, NEGLIGENCE OR STRICT LIABILITY), EVEN IF A LOMI PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.\n\n7.2 – IF, NOTWITHSTANDING THE FOREGOING, LOMI IS FOUND TO BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DAMAGE OR LOSS WHICH ARISES UNDER OR IN CONNECTION WITH YOUR USE OF THE SITE, APPLICATION, SERVICES, CONTENT AND SUBSCRIPTIONS, THE RELEVANT LOMI PARTY’S TOTAL CUMULATIVE LIABILITY SHALL IN NO EVENT EXCEED THE GREATER OF: (A) THE AMOUNT YOU PAID LOMI FOR THE SUBSCRIPTION, AS APPLICABLE; AND (B) THE SUM OF ONE HUNDRED (100) DOLLARS.\n\n13.\tDISPUTES; CHOICE OF LAW\n8.1 - This Agreement shall be governed by and construed in accordance with the laws of the Province of Ontario. The parties hereby submit to the jurisdiction of the courts of the Province of Ontario located in Toronto, Ontario, which shall have exclusive jurisdiction over all disputes arising hereunder or in connection with this Agreement.\n\n14.\tELECTRONIC COMMUNICATIONS; GENERAL TERMS\n\nWhenever you visit our Site, Application and Services or send emails to Lomi, you are communicating with Lomi electronically. For that reason, you also consent to receive communications from Lomi electronically regarding administrative or account information. Since these administrative or account electronic communications are essential to the successful and effective functioning of your Subscription, the sole remedy to 'opt-out' is to cancel your Lomi Account. You may cancel your Lomi Account either by logging into your account and following the cancellation procedures or by emailing a request to admin@lomi-app.com. Lomi will communicate with you by email, by posting notices on the Site, Application and Services or by such other means as we may determine from time-to-time. You agree that all agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing, to the extent permitted by applicable law.\n\nLomi may issue a warning, temporarily suspend, indefinitely suspend or terminate your right to use or access the Site, Application and Services including a Subscription, without notice, for any reason, in Lomi’s sole discretion, including without limitation breach of this Agreement and/or a violation of these Terms of Service, Lomi’s belief that such access would violate any applicable law, rule or regulation or would be harmful to the interests of, or potentially cause financial loss or legal liability to Lomi or another user of the Site, Application and Services.\n\nThis Agreement and the Privacy Policy constitute the entire agreement between you and Lomi regarding its subject matter. \n\nThe failure of Lomi to exercise or enforce any right or provision of this Agreement shall not constitute a waiver of such right or provision. \n\nIf any part of this Agreement is held invalid, illegal or unenforceable, that provision shall be enforced to the maximum extent permissible so as to maintain the intent of this Agreement, and the other parts will remain in full force and effect. \n\nThe parties shall at all times and for all purposes be deemed to be independent contractors and neither party nor its agents may bind the other party. \n\nThe parties acknowledge and agree that this Agreement and all related documents shall be drawn up in the English language.\n\nThis Agreement shall not be interpreted or construed to confer any rights or remedies on any third parties, except that each indemnified Lomi Party shall be a third party beneficiary hereunder. Lomi may assign or transfer its rights, or delegate any performance, under this Agreement to a third party in its sole discretion. You may not assign or otherwise transfer your rights, or delegate your performance, under this Agreement to any third party without Lomi’s express prior written consent. \n\nAll terms which by their nature are intended to survive any termination of this Agreement, or any termination of your use of the Site, Application, Services, Content or Subscriptions shall survive such termination.";
+
+/* Class = "UILabel"; text = "Upgrade your account!"; ObjectID = "c8V-l3-iCX"; */
+"c8V-l3-iCX.text" = "Upgrade your account!";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "cEk-Jo-6Wd"; */
+"cEk-Jo-6Wd.text" = ">";
+
+/* Class = "UIButton"; normalTitle = "Upgrade Account"; ObjectID = "cFl-hc-e9B"; */
+"cFl-hc-e9B.normalTitle" = "Upgrade Account";
+
+/* Class = "UILabel"; text = "TRY IT NOW"; ObjectID = "cfS-mj-WuI"; */
+"cfS-mj-WuI.text" = "TRY IT NOW";
+
+/* Class = "UILabel"; text = "Apply"; ObjectID = "cgI-71-66U"; */
+"cgI-71-66U.text" = "Apply";
+
+/* Class = "UILabel"; text = "Morning Snack"; ObjectID = "cq6-BM-adD"; */
+"cq6-BM-adD.text" = "Morning Snack";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "d84-YC-aeZ"; */
+"d84-YC-aeZ.text" = ">";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "dR5-2V-JE0"; */
+"dR5-2V-JE0.text" = "Email";
+
+/* Class = "UILabel"; text = "Canada"; ObjectID = "dff-4d-9H6"; */
+"dff-4d-9H6.text" = "Canada";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "dkt-qt-HWC"; */
+"dkt-qt-HWC.text" = "Language";
+
+/* Class = "UILabel"; text = "Birthday"; ObjectID = "do8-Dd-rpD"; */
+"do8-Dd-rpD.text" = "Birthday";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "e2Q-A1-X0g"; */
+"e2Q-A1-X0g.text" = ">";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "eAz-GV-p7q"; */
+"eAz-GV-p7q.text" = "Profile";
+
+/* Class = "UILabel"; text = "Last update on:"; ObjectID = "eU1-uy-D7t"; */
+"eU1-uy-D7t.text" = "Last update on:";
+
+/* Class = "UILabel"; text = "Choose a nutritionist"; ObjectID = "ebC-Mn-B4O"; */
+"ebC-Mn-B4O.text" = "Choose a nutritionist";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "eiD-db-Ou3"; */
+"eiD-db-Ou3.text" = ">";
+
+/* Class = "UILabel"; text = "Back"; ObjectID = "epq-QP-rcf"; */
+"epq-QP-rcf.text" = "Back";
+
+/* Class = "UILabel"; text = "One month"; ObjectID = "exG-u6-6lI"; */
+"exG-u6-6lI.text" = "One month";
+
+/* Class = "UITextView"; text = "What is the most you have weighted over the past few years"; ObjectID = "f8D-Vf-BFO"; */
+"f8D-Vf-BFO.text" = "What is the most you have weighted over the past few years";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "fA2-hI-Bmt"; */
+"fA2-hI-Bmt.text" = "Male";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "fB9-VT-CXt"; */
+"fB9-VT-CXt.text" = "Cancel";
+
+/* Class = "UITabBarItem"; title = "Daily Plan"; ObjectID = "fCY-t0-e64"; */
+"fCY-t0-e64.title" = "Daily Plan";
+
+/* Class = "UITextView"; text = "Enter your promotional code below
+and receive PREMIUM ACCOUNT"; ObjectID = "fVF-LI-oal"; */
+"fVF-LI-oal.text" = "Enter your promotional code below and we will contact you to activate it";
+
+/* Class = "UILabel"; text = "Your Questionnaire"; ObjectID = "fi9-mr-5mx"; */
+"fi9-mr-5mx.text" = "Your Questionnaire";
+
+/* Class = "UITextField"; placeholder = "Please select your birthday"; ObjectID = "fkx-8y-Mb8"; */
+"fkx-8y-Mb8.placeholder" = "Please select your birthday";
+
+/* Class = "UILabel"; text = "Current weight"; ObjectID = "flu-8K-3FT"; */
+"flu-8K-3FT.text" = "Current weight";
+
+/* Class = "UITextField"; placeholder = "Expiration Year"; ObjectID = "fru-yB-Lcd"; */
+"fru-yB-Lcd.placeholder" = "Expiration Year";
+
+/* Class = "UILabel"; text = "Back"; ObjectID = "g3P-c2-Vz4"; */
+"g3P-c2-Vz4.text" = "Back";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "g5l-0u-KMc"; */
+"g5l-0u-KMc.text" = "1";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "gFo-zk-M0y"; */
+"gFo-zk-M0y.text" = "1";
+
+/* Class = "UILabel"; text = "Canada"; ObjectID = "gPa-Pg-f2D"; */
+"gPa-Pg-f2D.text" = "Canada";
+
+/* Class = "UIButton"; normalTitle = "Log in"; ObjectID = "gdf-gi-0zL"; */
+"gdf-gi-0zL.normalTitle" = "Log in";
+
+/* Class = "UILabel"; text = "One week"; ObjectID = "ge7-Xc-eFU"; */
+"ge7-Xc-eFU.text" = "One week";
+
+/* Class = "UILabel"; text = "Registration"; ObjectID = "h3j-qN-exI"; */
+"h3j-qN-exI.text" = "Registration";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "hBE-53-Rav"; */
+"hBE-53-Rav.text" = "Payment";
+
+/* Class = "UILabel"; text = "Lunch"; ObjectID = "hFz-9Y-iFQ"; */
+"hFz-9Y-iFQ.text" = "Lunch";
+
+/* Class = "UILabel"; text = "Welcome to Lomi!"; ObjectID = "hFz-Mr-3GP"; */
+"hFz-Mr-3GP.text" = "Welcome to Lomi!";
+
+/* Class = "UILabel"; text = "Evening Snack"; ObjectID = "hNP-8y-3dU"; */
+"hNP-8y-3dU.text" = "Evening Snack";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "hP2-8h-fKf"; */
+"hP2-8h-fKf.text" = ">";
+
+/* Class = "UILabel"; text = "TRY IT NOW"; ObjectID = "hbE-q9-c8m"; */
+"hbE-q9-c8m.text" = "TRY IT NOW";
+
+/* Class = "UILabel"; text = "Forgot your password ?"; ObjectID = "hr7-g2-9ih"; */
+"hr7-g2-9ih.text" = "Forgot your password ?";
+
+/* Class = "UILabel"; text = "Forgot password?"; ObjectID = "hrs-66-MKj"; */
+"hrs-66-MKj.text" = "Forgot password?";
+
+/* Class = "UILabel"; text = "$ 79"; ObjectID = "iSD-27-Ztz"; */
+"iSD-27-Ztz.text" = "$ 79";
+
+/* Class = "UILabel"; text = "kg"; ObjectID = "ih1-iO-rOY"; */
+"ih1-iO-rOY.text" = "kg";
+
+/* Class = "UITextField"; text = "Fe65Pfg63Jnb"; ObjectID = "jI2-6w-Zzg"; */
+"jI2-6w-Zzg.text" = "";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "jWs-cm-ZZH"; */
+"jWs-cm-ZZH.text" = "0";
+
+/* Class = "UILabel"; text = "Body Measurements"; ObjectID = "jZi-zx-lNq"; */
+"jZi-zx-lNq.text" = "Body Measurements";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "kAI-4u-6fY"; */
+"kAI-4u-6fY.text" = "1";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "kdk-qi-ISV"; */
+"kdk-qi-ISV.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Sound Effect"; ObjectID = "kp4-Yc-rlL"; */
+"kp4-Yc-rlL.text" = "Sound Effect";
+
+/* Class = "UILabel"; text = "Birthday"; ObjectID = "kyy-tw-IhJ"; */
+"kyy-tw-IhJ.text" = "Birthday";
+
+/* Class = "UILabel"; text = "New Photo"; ObjectID = "l78-GR-cTg"; */
+"l78-GR-cTg.text" = "New Photo";
+
+/* Class = "UILabel"; text = "Female"; ObjectID = "l9r-7g-IPI"; */
+"l9r-7g-IPI.text" = "Female";
+
+/* Class = "UILabel"; text = "About Lomi"; ObjectID = "lK2-JE-fxI"; */
+"lK2-JE-fxI.text" = "About Lomi";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "lW8-Kd-JO8"; */
+"lW8-Kd-JO8.text" = ">";
+
+/* Class = "UILabel"; text = "Your Plan :"; ObjectID = "lcP-al-5un"; */
+"lcP-al-5un.text" = "Your Plan :";
+
+/* Class = "UILabel"; text = "Registration"; ObjectID = "lei-Kg-Cl7"; */
+"lei-Kg-Cl7.text" = "Registration";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "m2v-Rt-0Xv"; */
+"m2v-Rt-0Xv.text" = ">";
+
+/* Class = "UILabel"; text = "Three month"; ObjectID = "m4d-5D-vEa"; */
+"m4d-5D-vEa.text" = "Three month";
+
+/* Class = "UITextView"; text = "You have just created account!
+Choose your nutritionist"; ObjectID = "m8I-8q-jeO"; */
+"m8I-8q-jeO.text" = "You have just created account!
+Choose your nutritionist";
+
+/* Class = "UILabel"; text = "General"; ObjectID = "mCV-UD-1N5"; */
+"mCV-UD-1N5.text" = "General";
+
+/* Class = "UILabel"; text = "New Photo"; ObjectID = "mMb-tz-77L"; */
+"mMb-tz-77L.text" = "New Photo";
+
+/* Class = "UITextView"; text = "Brings health experts to your fingertips"; ObjectID = "mOs-2g-XRd"; */
+"mOs-2g-XRd.text" = "Brings health experts to your fingertips";
+
+/* Class = "UILabel"; text = "Canada"; ObjectID = "mdN-rg-EEm"; */
+"mdN-rg-EEm.text" = "Canada";
+
+/* Class = "UITabBarItem"; title = "Progress"; ObjectID = "mk4-S3-drh"; */
+"mk4-S3-drh.title" = "Progress";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "mmh-dN-ahM"; */
+"mmh-dN-ahM.text" = "About Us";
+
+/* Class = "UITabBarItem"; title = "Journal"; ObjectID = "mys-Zo-u2H"; */
+"mys-Zo-u2H.title" = "Journal";
+
+/* Class = "UILabel"; text = "Free Trial Account"; ObjectID = "n1b-ag-bXa"; */
+"n1b-ag-bXa.text" = "Free Trial Account";
+
+/* Class = "UILabel"; text = "Kilograms"; ObjectID = "nCz-De-LZI"; */
+"nCz-De-LZI.text" = "Kilograms";
+
+/* Class = "UILabel"; text = "Upgrade Account"; ObjectID = "nG8-tq-VFa"; */
+"nG8-tq-VFa.text" = "Upgrade Account";
+
+/* Class = "UILabel"; text = "Edit"; ObjectID = "nZV-rd-8ON"; */
+"nZV-rd-8ON.text" = "Edit";
+
+/* Class = "UITabBarItem"; title = "Progress"; ObjectID = "nbh-xc-v6s"; */
+"nbh-xc-v6s.title" = "Progress";
+
+/* Class = "UILabel"; text = "Measurement Unit"; ObjectID = "nej-Uv-ue3"; */
+"nej-Uv-ue3.text" = "Measurement Unit";
+
+/* Class = "UILabel"; text = "Canada"; ObjectID = "oME-Zv-dsQ"; */
+"oME-Zv-dsQ.text" = "Canada";
+
+/* Class = "UILabel"; text = "Done"; ObjectID = "olg-zD-Fv8"; */
+"olg-zD-Fv8.text" = "Done";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "pH9-AZ-IxX"; */
+"pH9-AZ-IxX.text" = ">";
+
+/* Class = "UILabel"; text = "My Progress"; ObjectID = "pY0-hI-rTm"; */
+"pY0-hI-rTm.text" = "My Progress";
+
+/* Class = "UILabel"; text = "Application Settings"; ObjectID = "q0C-ge-LMl"; */
+"q0C-ge-LMl.text" = "Application Settings";
+
+/* Class = "UITextField"; text = "Fe65Pfg63Jnb"; ObjectID = "q50-0l-Xs4"; */
+"q50-0l-Xs4.text" = "";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "qNt-d6-yh1"; */
+"qNt-d6-yh1.text" = "Cancel";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "qoX-nQ-Qt4"; */
+"qoX-nQ-Qt4.text" = ">";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "rSn-G5-HTX"; */
+"rSn-G5-HTX.text" = "Logout";
+
+/* Class = "UITextField"; placeholder = "Expiration Month"; ObjectID = "sId-2y-RAJ"; */
+"sId-2y-RAJ.placeholder" = "Expiration Month";
+
+/* Class = "UILabel"; text = "Afternoon Snack"; ObjectID = "sS0-IN-tsg"; */
+"sS0-IN-tsg.text" = "Afternoon Snack";
+
+/* Class = "UILabel"; text = "Application Settings"; ObjectID = "sU0-bu-RJ1"; */
+"sU0-bu-RJ1.text" = "Application Settings";
+
+/* Class = "UILabel"; text = "Thigh"; ObjectID = "sWk-7f-F1N"; */
+"sWk-7f-F1N.text" = "Thigh";
+
+/* Class = "UIButton"; normalTitle = "ADD NEW WEIGHT"; ObjectID = "sZj-wK-88R"; */
+"sZj-wK-88R.normalTitle" = "ADD NEW WEIGHT";
+
+/* Class = "UILabel"; text = "Body Mass index (BMI)"; ObjectID = "sbM-ja-kRz"; */
+"sbM-ja-kRz.text" = "Body Mass index (BMI)";
+
+/* Class = "UILabel"; text = "Next"; ObjectID = "sf9-oi-L9p"; */
+"sf9-oi-L9p.text" = "Next";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "tFE-ip-osZ"; */
+"tFE-ip-osZ.text" = "Male";
+
+/* Class = "UILabel"; text = "3 / 5 (3 votes)"; ObjectID = "tZQ-OD-in7"; */
+"tZQ-OD-in7.text" = "3 / 5 (3 votes)";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "th8-PG-k43"; */
+"th8-PG-k43.title" = "Profile";
+
+/* Class = "UILabel"; text = "Back"; ObjectID = "u34-8a-BJe"; */
+"u34-8a-BJe.text" = "Back";
+
+/* Class = "UIButton"; normalTitle = "SEND"; ObjectID = "u6J-cf-UH2"; */
+"u6J-cf-UH2.normalTitle" = "SEND";
+
+/* Class = "UILabel"; text = "Centimeters (cm)"; ObjectID = "uP7-bE-qLZ"; */
+"uP7-bE-qLZ.text" = "Centimeters (cm)";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "uYj-8j-LGD"; */
+"uYj-8j-LGD.text" = ">";
+
+/* Class = "UILabel"; text = "Music"; ObjectID = "uyF-VL-fg0"; */
+"uyF-VL-fg0.text" = "Music";
+
+/* Class = "UILabel"; text = "PREMIUM"; ObjectID = "v0r-Z4-ab0"; */
+"v0r-Z4-ab0.text" = "PREMIUM";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "vEn-J7-GtI"; */
+"vEn-J7-GtI.text" = "*";
+
+/* Class = "UITextView"; text = "Calorie and step counting apps alone, won't help you lose weight or reach your goals. Lomi on the other hand, is a mobile application that connects you with health professionals in REAL TIME, that are willing to help you reach your target weight, feel better, and achieve your health goals. Easy access to our real-life health experts will help you reach your health goals easier;\n\nWhether it was weight loss, managing disease through diet, enhancing your fitness level or simply a new healthy life style."; ObjectID = "vYd-ap-jEh"; */
+"vYd-ap-jEh.text" = "Calorie and step counting apps alone, won't help you lose weight or reach your goals. Lomi on the other hand, is a mobile application that connects you with health professionals in REAL TIME, that are willing to help you reach your target weight, feel better, and achieve your health goals. Easy access to our real-life health experts will help you reach your health goals easier;\n\nWhether it was weight loss, managing disease through diet, enhancing your fitness level or simply a new healthy life style.";
+
+/* Class = "UILabel"; text = "Six month"; ObjectID = "vcJ-rl-EKd"; */
+"vcJ-rl-EKd.text" = "Six month";
+
+/* Class = "UILabel"; text = "Lara Chebli"; ObjectID = "vhV-MX-fe3"; */
+"vhV-MX-fe3.text" = "Lara Chebli";
+
+/* Class = "UIButton"; normalTitle = "Log in"; ObjectID = "w05-iK-WL8"; */
+"w05-iK-WL8.normalTitle" = "Log in";
+
+/* Class = "UITabBarItem"; title = "Dialy Plan"; ObjectID = "wGE-hM-0Ic"; */
+"wGE-hM-0Ic.title" = "Dialy Plan";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "wV9-KK-AIG"; */
+"wV9-KK-AIG.text" = "Cancel";
+
+/* Class = "UILabel"; text = "Dinner"; ObjectID = "wd6-Gf-ppr"; */
+"wd6-Gf-ppr.text" = "Dinner";
+
+/* Class = "UILabel"; text = "About Lomi"; ObjectID = "wfm-un-LoY"; */
+"wfm-un-LoY.text" = "About Lomi";
+
+/* Class = "UILabel"; text = "Diet Reasons"; ObjectID = "why-hd-fOV"; */
+"why-hd-fOV.text" = "Diet Reasons";
+
+/* Class = "UITabBarItem"; title = "Journal"; ObjectID = "wui-Us-Lb2"; */
+"wui-Us-Lb2.title" = "Journal";
+
+/* Class = "UITextField"; placeholder = "Please select your birthday"; ObjectID = "xVk-WO-D25"; */
+"xVk-WO-D25.placeholder" = "Please select your birthday";
+
+/* Class = "UILabel"; text = "Messages"; ObjectID = "yDI-vm-eAc"; */
+"yDI-vm-eAc.text" = "Messages";
+
+/* Class = "UILabel"; text = "FAQ"; ObjectID = "yE8-LH-EGd"; */
+"yE8-LH-EGd.text" = "FAQ";
+
+/* Class = "UILabel"; text = "Lara Chebli"; ObjectID = "yop-xP-qWU"; */
+"yop-xP-qWU.text" = "Lara Chebli";
+
+/* Class = "UILabel"; text = "Privacy Mode"; ObjectID = "z2w-HO-Q3i"; */
+"z2w-HO-Q3i.text" = "Privacy Mode";
+
+/* Class = "UIButton"; normalTitle = "SEND"; ObjectID = "zNK-aV-KXf"; */
+"zNK-aV-KXf.normalTitle" = "SEND";
+
+/* Class = "UILabel"; text = "CVV"; ObjectID = "zqs-KH-Msl"; */
+"zqs-KH-Msl.text" = "CVV";
+
+/* Class = "UILabel"; text = "Step 1"; ObjectID = "zsL-Dh-RuM"; */
+"zsL-Dh-RuM.text" = "Step 1";
+
+/* Class = "UILabel"; text = "Phone number"; ObjectID = "Lo6-x1-5mp"; */
+"Lo6-x1-5mp.text" = "Phone number";
+
+/* Class = "UILabel"; text = "Phone number"; ObjectID = "zzH-Iy-UaD"; */
+"zzH-Iy-UaD.text" = "Phone number";
+
+/* Class = "UILabel"; text = "Phone number"; ObjectID = "l2L-2F-dCV"; */
+"l2L-2F-dCV.text" = "Phone number";
+
+/* Class = "UIButton"; normalTitle = "SEND"; ObjectID = "6s8-HM-Cgl"; */
+"6s8-HM-Cgl.normalTitle" = "SEND";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "xqN-ea-oAx"; */
+"xqN-ea-oAx.text" = "Contact Us";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "dfU-6W-IZX"; */
+"dfU-6W-IZX.text" = "Contact Us";
+
+/* Class = "UIButton"; normalTitle = "Send Message"; ObjectID = "7RM-5o-SXI"; */
+"7RM-5o-SXI.normalTitle" = "Send Message";
+
+/* Class = "UITextView"; text = "Please let us know what do you think about us"; ObjectID = "iFp-p4-5kk"; */
+"iFp-p4-5kk.text" = "Please let us know what do you think about us";
+
+/* Class = "UILabel"; text = "Confirm Email"; ObjectID = "HGb-xK-Uaf"; */
+"HGb-xK-Uaf.text" = "Confirm Email";
+
+/* Class = "UIButton"; normalTitle = "Send me bank account details for wire transfer"; ObjectID = "jla-2e-bzY"; */
+"jla-2e-bzY.normalTitle" = "Send me bank account details for wire transfer";
+
+/* Class = "UITextView"; text = "You don't have credit card, Pay by bank transfer"; ObjectID = "zYS-Sd-HY6"; */
+"zYS-Sd-HY6.text" = "You don't have credit card, Pay by bank transfer";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "t4X-n3-M7o"; */
+"t4X-n3-M7o.text" = "Country";
+
+/* Class = "UILabel"; text = "Specialty"; ObjectID = "XFV-pD-L9f"; */
+"XFV-pD-L9f.text" = "Specialty";
+
+
+/* Class = "UITextView"; text = "Lomi is down due to maintainance and will be back soon!"; ObjectID = "KFq-cD-Dun"; */
+"KFq-cD-Dun.text" = "Lomi is down due to maintainance and will be back soon!";
+
+

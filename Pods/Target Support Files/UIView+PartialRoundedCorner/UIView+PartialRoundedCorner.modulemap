@@ -1,0 +1,6 @@
+framework module UIView_PartialRoundedCorner {
+  umbrella header "UIView+PartialRoundedCorner-umbrella.h"
+
+  export *
+  module * { export * }
+}

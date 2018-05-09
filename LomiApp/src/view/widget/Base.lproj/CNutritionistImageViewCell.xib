@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="CNutritionImageCollectionViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="3QX-la-0fX" userLabel="ViewContainer">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="vUP-ee-6Lw" userLabel="imgAvatar">
+                            <rect key="frame" x="8" y="8" width="50" height="50"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="50" id="2nU-HZ-0tD"/>
+                                <constraint firstAttribute="height" constant="50" id="ZDR-Gu-WM5"/>
+                            </constraints>
+                        </imageView>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon_avatar_f5f5f5" translatesAutoresizingMaskIntoConstraints="NO" id="scz-XM-Lpy" userLabel="imgMask">
+                            <rect key="frame" x="8" y="8" width="50" height="50"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="50" id="HdA-pL-VfT"/>
+                                <constraint firstAttribute="width" constant="50" id="hue-TU-axk"/>
+                            </constraints>
+                        </imageView>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Yao-de-PSc">
+                            <rect key="frame" x="66" y="8" width="301" height="651"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="6:32 AM" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MAV-Y9-ZR0">
+                                    <rect key="frame" x="8" y="627" width="285" height="16"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                    <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ima_lunch.png" translatesAutoresizingMaskIntoConstraints="NO" id="QPe-oq-c1p">
+                                    <rect key="frame" x="0.0" y="0.0" width="301" height="651"/>
+                                </imageView>
+                            </subviews>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <constraints>
+                                <constraint firstItem="QPe-oq-c1p" firstAttribute="leading" secondItem="Yao-de-PSc" secondAttribute="leading" id="4T0-ga-s3V"/>
+                                <constraint firstItem="MAV-Y9-ZR0" firstAttribute="leading" secondItem="Yao-de-PSc" secondAttribute="leading" constant="8" id="DSO-ft-6vw"/>
+                                <constraint firstAttribute="bottom" secondItem="QPe-oq-c1p" secondAttribute="bottom" id="FyB-gw-qks"/>
+                                <constraint firstAttribute="bottom" secondItem="MAV-Y9-ZR0" secondAttribute="bottom" constant="8" id="fva-IW-cAX"/>
+                                <constraint firstAttribute="trailing" secondItem="QPe-oq-c1p" secondAttribute="trailing" id="gYL-Tq-iAO"/>
+                                <constraint firstAttribute="trailing" secondItem="MAV-Y9-ZR0" secondAttribute="trailing" constant="8" id="nmH-nF-MY9"/>
+                                <constraint firstItem="QPe-oq-c1p" firstAttribute="top" secondItem="Yao-de-PSc" secondAttribute="top" id="xUK-ha-XcY"/>
+                            </constraints>
+                        </view>
+                    </subviews>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="Yao-de-PSc" secondAttribute="trailing" constant="8" id="05S-4H-Psr"/>
+                        <constraint firstAttribute="bottom" secondItem="Yao-de-PSc" secondAttribute="bottom" constant="8" id="CEW-cL-qNI"/>
+                        <constraint firstItem="scz-XM-Lpy" firstAttribute="leading" secondItem="3QX-la-0fX" secondAttribute="leading" constant="8" id="D1J-Va-Uij"/>
+                        <constraint firstItem="Yao-de-PSc" firstAttribute="leading" secondItem="scz-XM-Lpy" secondAttribute="trailing" constant="8" id="Xkf-eW-lKo"/>
+                        <constraint firstItem="vUP-ee-6Lw" firstAttribute="leading" secondItem="3QX-la-0fX" secondAttribute="leading" constant="8" id="hi2-iy-dsP"/>
+                        <constraint firstItem="Yao-de-PSc" firstAttribute="top" secondItem="3QX-la-0fX" secondAttribute="top" constant="8" id="oSz-qC-GTV"/>
+                        <constraint firstItem="scz-XM-Lpy" firstAttribute="top" secondItem="3QX-la-0fX" secondAttribute="top" constant="8" id="u1f-I6-32f"/>
+                        <constraint firstItem="vUP-ee-6Lw" firstAttribute="top" secondItem="3QX-la-0fX" secondAttribute="top" constant="8" id="vc4-Wr-w3g"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="3QX-la-0fX" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="27G-SG-MvV"/>
+                <constraint firstItem="3QX-la-0fX" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="4OY-1l-T7c"/>
+                <constraint firstAttribute="trailing" secondItem="3QX-la-0fX" secondAttribute="trailing" id="9gP-8n-xPF"/>
+                <constraint firstAttribute="bottom" secondItem="3QX-la-0fX" secondAttribute="bottom" id="QaZ-3k-rIB"/>
+            </constraints>
+            <connections>
+                <outlet property="m_ivAvatar" destination="vUP-ee-6Lw" id="kCb-OB-5Cy"/>
+                <outlet property="m_ivImage" destination="QPe-oq-c1p" id="65x-KA-pTp"/>
+                <outlet property="m_lblDate" destination="MAV-Y9-ZR0" id="gx4-th-ZOg"/>
+            </connections>
+            <point key="canvasLocation" x="111.5" y="119.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="icon_avatar_f5f5f5" width="216" height="216"/>
+        <image name="ima_lunch.png" width="240" height="240"/>
+    </resources>
+</document>

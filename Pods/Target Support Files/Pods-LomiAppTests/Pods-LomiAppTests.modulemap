@@ -1,0 +1,6 @@
+framework module Pods_LomiAppTests {
+  umbrella header "Pods-LomiAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
