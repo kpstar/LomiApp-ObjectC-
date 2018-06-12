@@ -20,7 +20,7 @@
 @implementation CPaymentSelectionViewController
 
 //NSString *clientToken = @"sandbox_3p8nbh69_48gt6tgyzmhnmbc9";
-NSString *clientToken = @"production_gm4dgbmv_s7sxsrhmm6dsch97";
+NSString *clientToken = @"production_n9wx4w96_s7sxsrhmm6dsch97";
 
 - (void)viewDidLoad
 {
@@ -39,7 +39,7 @@ NSString *clientToken = @"production_gm4dgbmv_s7sxsrhmm6dsch97";
     
     self.m_lblPrice.text = [NSString stringWithFormat:@"$%.2f",g_pUserModel.pSelectedPaymentModel.packagePrice];
     
-    self.dict = [NSDictionary dictionaryWithObjects:@[@"PayPal", @"Stripe", @"ApplePay", @"GoogleWallet"] forKeys:@[@"1", @"2", @"3", @"4"]];
+    self.dict = [NSDictionary dictionaryWithObjects:@[@"PayPal", @"Braintree", @"ApplePay", @"GoogleWallet"] forKeys:@[@"1", @"2", @"3", @"4"]];
     
     self.payPalconfig = [[PayPalConfiguration alloc]init];
     self.payPalconfig.acceptCreditCards = YES;

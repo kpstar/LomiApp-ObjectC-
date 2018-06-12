@@ -2249,7 +2249,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/LomiApp/libs",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.reach.lomies;
+				PRODUCT_BUNDLE_IDENTIFIER = com.reach.lomi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -2280,7 +2280,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/LomiApp/libs",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.reach.lomies;
+				PRODUCT_BUNDLE_IDENTIFIER = com.reach.lomi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
